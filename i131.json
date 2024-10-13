@@ -1,0 +1,5993 @@
+[
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "477 0 R",
+          "/Y": "478 0 R"
+        },
+        "/N": {
+          "/Y": "479 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Rect": [
+        476.0,
+        613.996,
+        486.0,
+        623.996
+      ],
+      "/StructParent": 23,
+      "/Subtype": "/Widget",
+      "/T": "u:G28_Attached[0]",
+      "/TU": "u:To Be Completed by an Attorney/Representative, if any. Check Fill in box if G-28 is attached to represent the applicant.",
+      "/Type": "/Annot",
+      "id": "rdoG28Attached-0",
+      "name": "rdoG28Attached"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        119.999,
+        450.0,
+        294.001,
+        468.0
+      ],
+      "/StructParent": 3,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1a_FamilyName[0]",
+      "/TU": "u:Part 1. Information About You. 1. A. Enter Family Name (Last Name).",
+      "/Type": "/Annot",
+      "id": "txtLine1aFamilyName-0",
+      "name": "txtLine1aFamilyName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        119.999,
+        425.999,
+        294.001,
+        443.999
+      ],
+      "/StructParent": 4,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1b_GivenName[0]",
+      "/TU": "u:Part 1. Information About You. 1. B. Enter Given Name (First Name).",
+      "/Type": "/Annot",
+      "id": "txtLine1bGivenName-0",
+      "name": "txtLine1bGivenName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        119.999,
+        402.001,
+        293.998,
+        420.001
+      ],
+      "/StructParent": 11,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1c_MiddleName[0]",
+      "/TU": "u:Part 1. Information About You. 1. C. Enter Middle Name.",
+      "/Type": "/Annot",
+      "id": "txtLine1cMiddleName-0",
+      "name": "txtLine1cMiddleName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 34,
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        60.001,
+        342.0,
+        294.001,
+        360.0
+      ],
+      "/StructParent": 5,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2a_InCareofName[0]",
+      "/TU": "u:Part 1. Information About You. Physical Address. 2. A. Enter In Care of Name.",
+      "/Type": "/Annot",
+      "id": "txtLine2aInCareofName-0",
+      "name": "txtLine2aInCareofName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 25,
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        126.0,
+        317.999,
+        294.001,
+        335.999
+      ],
+      "/StructParent": 10,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2b_StreetNumberName[0]",
+      "/TU": "u:Part 1. Information About You. Physical Address. 2. B. Enter Street Number and Name.",
+      "/Type": "/Annot",
+      "id": "txtLine2bStreetNumberName-0",
+      "name": "txtLine2bStreetNumberName"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ APT ": "474 0 R",
+          "/Off": "475 0 R"
+        },
+        "/N": {
+          "/ APT ": "476 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Rect": [
+        85.0,
+        298.001,
+        95.0,
+        308.001
+      ],
+      "/StructParent": 15,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2c_Unit[2]",
+      "/TU": "u:Part 1. Information About You. Physical Address. 2. C. Check Apartment. ",
+      "/Type": "/Annot",
+      "id": "rdoLine2cUnit-2",
+      "name": "rdoLine2cUnit"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ STE ": "468 0 R",
+          "/Off": "469 0 R"
+        },
+        "/N": {
+          "/ STE ": "470 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Rect": [
+        127.001,
+        297.998,
+        137.001,
+        307.998
+      ],
+      "/StructParent": 12,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2c_Unit[0]",
+      "/TU": "u:Part 1. Information About You. Physical Address. 2. C. Check Suite.  ",
+      "/Type": "/Annot",
+      "id": "rdoLine2cUnit-0",
+      "name": "rdoLine2cUnit"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ FLR ": "471 0 R",
+          "/Off": "472 0 R"
+        },
+        "/N": {
+          "/ FLR ": "473 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Rect": [
+        168.999,
+        297.998,
+        178.999,
+        307.998
+      ],
+      "/StructParent": 13,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2c_Unit[1]",
+      "/TU": "u:Part 1. Information About You. Physical Address. 2. C. Check Floor.",
+      "/Type": "/Annot",
+      "id": "rdoLine2cUnit-1",
+      "name": "rdoLine2cUnit"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 4,
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        186.001,
+        294.001,
+        294.001,
+        312.001
+      ],
+      "/StructParent": 14,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2c_AptSteFlrNumber[0]",
+      "/TU": "u:Part 1. Information About You. Physical Address. 2. C. If Apartment, Suite or Floor, is Checked, Enter Apartment, Suite or Floor Number.",
+      "/Type": "/Annot",
+      "id": "txtLine2cAptSteFlrNumber-0",
+      "name": "txtLine2cAptSteFlrNumber"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 20,
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        126.0,
+        270.0,
+        294.001,
+        288.0
+      ],
+      "/StructParent": 16,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2d_CityOrTown[0]",
+      "/TU": "u:Part 1. Information About You. Physical Address. 2. D. Enter City or Town.",
+      "/Type": "/Annot",
+      "id": "txtLine2dCityOrTown-0",
+      "name": "txtLine2dCityOrTown"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Ch",
+      "/Ff": 67239936,
+      "/MK": {
+      },
+      "/Opt": [
+        [
+          "u: ",
+          "u: "
+        ],
+        [
+          "u:AA",
+          "u:AA"
+        ],
+        [
+          "u:AE",
+          "u:AE"
+        ],
+        [
+          "u:AK",
+          "u:AK"
+        ],
+        [
+          "u:AL",
+          "u:AL"
+        ],
+        [
+          "u:AP",
+          "u:AP"
+        ],
+        [
+          "u:AR",
+          "u:AR"
+        ],
+        [
+          "u:AS",
+          "u:AS"
+        ],
+        [
+          "u:AZ",
+          "u:AZ"
+        ],
+        [
+          "u:CA",
+          "u:CA"
+        ],
+        [
+          "u:CO",
+          "u:CO"
+        ],
+        [
+          "u:CT",
+          "u:CT"
+        ],
+        [
+          "u:DC",
+          "u:DC"
+        ],
+        [
+          "u:DE",
+          "u:DE"
+        ],
+        [
+          "u:FL",
+          "u:FL"
+        ],
+        [
+          "u:FM",
+          "u:FM"
+        ],
+        [
+          "u:GA",
+          "u:GA"
+        ],
+        [
+          "u:GU",
+          "u:GU"
+        ],
+        [
+          "u:HI",
+          "u:HI"
+        ],
+        [
+          "u:IA",
+          "u:IA"
+        ],
+        [
+          "u:ID",
+          "u:ID"
+        ],
+        [
+          "u:IL",
+          "u:IL"
+        ],
+        [
+          "u:IN",
+          "u:IN"
+        ],
+        [
+          "u:KS",
+          "u:KS"
+        ],
+        [
+          "u:KY",
+          "u:KY"
+        ],
+        [
+          "u:LA",
+          "u:LA"
+        ],
+        [
+          "u:MA",
+          "u:MA"
+        ],
+        [
+          "u:MD",
+          "u:MD"
+        ],
+        [
+          "u:ME",
+          "u:ME"
+        ],
+        [
+          "u:MH",
+          "u:MH"
+        ],
+        [
+          "u:MI",
+          "u:MI"
+        ],
+        [
+          "u:MN",
+          "u:MN"
+        ],
+        [
+          "u:MO",
+          "u:MO"
+        ],
+        [
+          "u:MP",
+          "u:MP"
+        ],
+        [
+          "u:MS",
+          "u:MS"
+        ],
+        [
+          "u:MT",
+          "u:MT"
+        ],
+        [
+          "u:NC",
+          "u:NC"
+        ],
+        [
+          "u:ND",
+          "u:ND"
+        ],
+        [
+          "u:NE",
+          "u:NE"
+        ],
+        [
+          "u:NH",
+          "u:NH"
+        ],
+        [
+          "u:NJ",
+          "u:NJ"
+        ],
+        [
+          "u:NM",
+          "u:NM"
+        ],
+        [
+          "u:NV",
+          "u:NV"
+        ],
+        [
+          "u:NY",
+          "u:NY"
+        ],
+        [
+          "u:OH",
+          "u:OH"
+        ],
+        [
+          "u:OK",
+          "u:OK"
+        ],
+        [
+          "u:OR",
+          "u:OR"
+        ],
+        [
+          "u:PA",
+          "u:PA"
+        ],
+        [
+          "u:PR",
+          "u:PR"
+        ],
+        [
+          "u:PW",
+          "u:PW"
+        ],
+        [
+          "u:RI",
+          "u:RI"
+        ],
+        [
+          "u:SC",
+          "u:SC"
+        ],
+        [
+          "u:SD",
+          "u:SD"
+        ],
+        [
+          "u:TN",
+          "u:TN"
+        ],
+        [
+          "u:TX",
+          "u:TX"
+        ],
+        [
+          "u:UT",
+          "u:UT"
+        ],
+        [
+          "u:UT",
+          "u:UT"
+        ],
+        [
+          "u:VA",
+          "u:VA"
+        ],
+        [
+          "u:VI",
+          "u:VI"
+        ],
+        [
+          "u:VT",
+          "u:VT"
+        ],
+        [
+          "u:WA",
+          "u:WA"
+        ],
+        [
+          "u:WI",
+          "u:WI"
+        ],
+        [
+          "u:WV",
+          "u:WV"
+        ],
+        [
+          "u:WY",
+          "u:WY"
+        ]
+      ],
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Rect": [
+        85.999,
+        245.999,
+        119.999,
+        263.999
+      ],
+      "/StructParent": 21,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2e_State[0]",
+      "/TU": "u:Part 1. Information About You. Physical Address. 2. E. Select State from a list of States.",
+      "/Type": "/Annot",
+      "id": "selLine2eState-0",
+      "name": "selLine2eState"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 5,
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        191.999,
+        245.999,
+        293.998,
+        263.999
+      ],
+      "/StructParent": 20,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2f_ZipCode[0]",
+      "/TU": "u:Part 1. Information About You. Physical Address. 2. F. Enter Zip Code.",
+      "/Type": "/Annot",
+      "id": "txtLine2fZipCode-0",
+      "name": "txtLine2fZipCode"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 9,
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        126.13,
+        221.998,
+        294.009,
+        239.998
+      ],
+      "/StructParent": 19,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2g_PostalCode[0]",
+      "/TU": "u:Part 1. Information About You. Physical Address. 2. G. Enter Postal Code",
+      "/Type": "/Annot",
+      "id": "txtLine2gPostalCode-0",
+      "name": "txtLine2gPostalCode"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 20,
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        126.13,
+        198.0,
+        294.009,
+        216.0
+      ],
+      "/StructParent": 18,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2h_Province[0]",
+      "/TU": "u:Part 1. Information About You. Physical Address. 2. H. Enter Province.",
+      "/Type": "/Annot",
+      "id": "txtLine2hProvince-0",
+      "name": "txtLine2hProvince"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        96.001,
+        173.999,
+        294.001,
+        191.999
+      ],
+      "/StructParent": 26,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2i_Country[0]",
+      "/TU": "u:Part 1. Information About You. Physical Address. 2. I. Enter Country. ",
+      "/Type": "/Annot",
+      "id": "txtLine2iCountry-0",
+      "name": "txtLine2iCountry"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 25165824,
+      "/MK": {
+      },
+      "/MaxLen": 9,
+      "/P": "33 0 R",
+      "/Parent": "86 0 R",
+      "/Q": 0,
+      "/Rect": [
+        446.391,
+        407.551,
+        575.401,
+        425.63
+      ],
+      "/StructParent": 2,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3_AlienNumber[0]",
+      "/TU": "u:Part 1. Information About You. Other Information. 3. Enter Alien Registration Number (A-Number).",
+      "/Type": "/Annot",
+      "id": "txtLine3AlienNumber-0",
+      "name": "txtLine3AlienNumber"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        342.0,
+        371.999,
+        576.0,
+        389.999
+      ],
+      "/StructParent": 24,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4_CountryOfBirth[0]",
+      "/TU": "u:Part 1. Information About You. Other Information. 4. Enter Country of Birth. ",
+      "/Type": "/Annot",
+      "id": "txtLine4CountryOfBirth-0",
+      "name": "txtLine4CountryOfBirth"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        342.0,
+        335.999,
+        576.0,
+        353.999
+      ],
+      "/StructParent": 25,
+      "/Subtype": "/Widget",
+      "/T": "u:Line5_CountryOfCitizenship[0]",
+      "/TU": "u:Part 1. Information About You. Other Information. 5. Enter Country of Citizenship. ",
+      "/Type": "/Annot",
+      "id": "txtLine5CountryOfCitizenship-0",
+      "name": "txtLine5CountryOfCitizenship"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        342.0,
+        300.002,
+        576.0,
+        318.002
+      ],
+      "/StructParent": 9,
+      "/Subtype": "/Widget",
+      "/T": "u:Line6_ClassofAdmission[0]",
+      "/TU": "u:Part 1. Information About You. Other Information. 6. Enter Class of Admission.",
+      "/Type": "/Annot",
+      "id": "txtLine6ClassofAdmission-0",
+      "name": "txtLine6ClassofAdmission"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "465 0 R",
+          "/Y": "466 0 R"
+        },
+        "/N": {
+          "/Y": "467 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Rect": [
+        380.16,
+        280.001,
+        390.16,
+        290.001
+      ],
+      "/StructParent": 8,
+      "/Subtype": "/Widget",
+      "/T": "u:Line7_Male[0]",
+      "/TU": "u:Part 1. Information About You. Other Information. 7. Gender. Check Male. ",
+      "/Type": "/Annot",
+      "id": "rdoLine7Male-0",
+      "name": "rdoLine7Male"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "462 0 R",
+          "/Y": "463 0 R"
+        },
+        "/N": {
+          "/Y": "464 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Rect": [
+        428.159,
+        280.001,
+        438.159,
+        290.001
+      ],
+      "/StructParent": 7,
+      "/Subtype": "/Widget",
+      "/T": "u:Line7_Female[0]",
+      "/TU": "u:Part 1. Information About You. Other Information. 7. Gender. Check Female. ",
+      "/Type": "/Annot",
+      "id": "rdoLine7Female-0",
+      "name": "rdoLine7Female"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "33 0 R",
+      "/Parent": "49 0 R",
+      "/Q": 0,
+      "/Rect": [
+        486.0,
+        252.0,
+        576.003,
+        270.0
+      ],
+      "/StructParent": 17,
+      "/Subtype": "/Widget",
+      "/T": "u:Line8_DateOfBirth[0]",
+      "/TU": "u:Part 1. Information About You. Other Information. 8. Enter Date of Birth as 2-digit Month, 2-digit Day, and 4-digit Year.",
+      "/Type": "/Annot",
+      "id": "txtLine8DateOfBirth-0",
+      "name": "txtLine8DateOfBirth"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 25165824,
+      "/MK": {
+      },
+      "/MaxLen": 9,
+      "/P": "33 0 R",
+      "/Parent": "90 0 R",
+      "/Q": 0,
+      "/Rect": [
+        446.947,
+        209.999,
+        575.957,
+        228.002
+      ],
+      "/StructParent": 6,
+      "/Subtype": "/Widget",
+      "/T": "u:Line9_SSN[0]",
+      "/TU": "u:Part 1. Information About You. Other Information. 9. Enter U. S. Social Security Number, if any.",
+      "/Type": "/Annot",
+      "id": "txtLine9SSN-0",
+      "name": "txtLine9SSN"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "480 0 R",
+          "/Y": "481 0 R"
+        },
+        "/N": {
+          "/Y": "482 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        60.999,
+        709.002,
+        70.999,
+        719.002
+      ],
+      "/StructParent": 30,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1a_checkbox[0]",
+      "/TU": "u:Part 2. Application Type. 1. A. Check I am a permanent resident or conditional resident of the United States, and I am applying for a reentry permit.",
+      "/Type": "/Annot",
+      "id": "rdoLine1acheckbox-0",
+      "name": "rdoLine1acheckbox"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "483 0 R",
+          "/Y": "484 0 R"
+        },
+        "/N": {
+          "/Y": "485 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        60.999,
+        667.001,
+        70.999,
+        677.001
+      ],
+      "/StructParent": 31,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1b_checkbox[0]",
+      "/TU": "u:Part 2. Application Type. 1. B. Check I now hold U. S. refugee or asylee status, and I am applying for a Refugee Travel Document.",
+      "/Type": "/Annot",
+      "id": "rdoLine1bcheckbox-0",
+      "name": "rdoLine1bcheckbox"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "486 0 R",
+          "/Y": "487 0 R"
+        },
+        "/N": {
+          "/Y": "488 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        60.999,
+        637.002,
+        70.999,
+        647.002
+      ],
+      "/StructParent": 32,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1c_checkbox[0]",
+      "/TU": "u:Part 2. Application Type. 1. C. Check I am a permanent resident as a direct result of refugee or asylee status, and I am applying for a Refugee Travel Document.",
+      "/Type": "/Annot",
+      "id": "rdoLine1ccheckbox-0",
+      "name": "rdoLine1ccheckbox"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "489 0 R",
+          "/Y": "490 0 R"
+        },
+        "/N": {
+          "/Y": "491 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        60.999,
+        595.001,
+        70.999,
+        605.001
+      ],
+      "/StructParent": 33,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1d_checkbox[0]",
+      "/TU": "u:Part 2. Application Type. 1. D. Check I am applying for an advance parole document to allow me to return to the United States after temporary foreign travel.",
+      "/Type": "/Annot",
+      "id": "rdoLine1dcheckbox-0",
+      "name": "rdoLine1dcheckbox"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "492 0 R",
+          "/Y": "493 0 R"
+        },
+        "/N": {
+          "/Y": "494 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        60.999,
+        553.0,
+        70.999,
+        563.0
+      ],
+      "/StructParent": 34,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1e_checkbox[0]",
+      "/TU": "u:Part 2. Application Type. 1. E. Check I am outside the United States, and I am applying for an Advance Parole Document.",
+      "/Type": "/Annot",
+      "id": "rdoLine1echeckbox-0",
+      "name": "rdoLine1echeckbox"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "495 0 R",
+          "/Y": "496 0 R"
+        },
+        "/N": {
+          "/Y": "497 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        60.999,
+        522.998,
+        70.999,
+        532.998
+      ],
+      "/StructParent": 35,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1f_checkbox[0]",
+      "/TU": "u:Part 2. Application Type. 1. F. Check I am applying for an Advance Parole Document for a person who is outside the United States.  ",
+      "/Type": "/Annot",
+      "id": "rdoLine1fcheckbox-0",
+      "name": "rdoLine1fcheckbox"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        119.999,
+        450.0,
+        294.001,
+        468.0
+      ],
+      "/StructParent": 36,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2a_FamilyName[0]",
+      "/TU": "u:Part 2. Application Type. If you checked box \"1. F.\" provide the following information about that person in 2. A. through 2. P. 2. A. Enter Family Name (Last Name).",
+      "/Type": "/Annot",
+      "id": "txtLine2aFamilyName-0",
+      "name": "txtLine2aFamilyName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        119.999,
+        425.999,
+        294.001,
+        443.999
+      ],
+      "/StructParent": 39,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2b_GivenName[0]",
+      "/TU": "u:Part 2. Application Type. If you checked box \"1. F.\" provide the following information about that person in 2. A. through 2. P. 2. B. Enter Given Name (First Name). ",
+      "/Type": "/Annot",
+      "id": "txtLine2bGivenName-0",
+      "name": "txtLine2bGivenName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        119.999,
+        401.998,
+        294.001,
+        419.998
+      ],
+      "/StructParent": 40,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2c_MiddleName[0]",
+      "/TU": "u:Part 2. Application Type. If you checked box \"1. F.\" provide the following information about that person in 2. A. through 2. P. 2. C. Enter Middle Name.",
+      "/Type": "/Annot",
+      "id": "txtLine2cMiddleName-0",
+      "name": "txtLine2cMiddleName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        204.001,
+        378.0,
+        294.001,
+        396.0
+      ],
+      "/StructParent": 45,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2d_DateOfBirth[0]",
+      "/TU": "u:Part 2. Application Type. If you checked box \"1. F.\" provide the following information about that person in 2. A. through 2. P. 2. D. Enter Date of Birth as 2-digit Month, 2-digit Day, and 4-digit Year.",
+      "/Type": "/Annot",
+      "id": "txtLine2dDateOfBirth-0",
+      "name": "txtLine2dDateOfBirth"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        342.0,
+        690.001,
+        576.0,
+        708.001
+      ],
+      "/StructParent": 60,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2e_CountryOfBirth[0]",
+      "/TU": "u:Part 2. Application Type. If you checked box \"1. F.\" provide the following information about that person in 2. A. through 2. P. 2. E. Enter Country of Birth.",
+      "/Type": "/Annot",
+      "id": "txtLine2eCountryOfBirth-0",
+      "name": "txtLine2eCountryOfBirth"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        342.0,
+        654.001,
+        576.0,
+        672.001
+      ],
+      "/StructParent": 61,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2f_CountryOfCitizenship[0]",
+      "/TU": "u:Part 2. Application Type. If you checked box \"1. F.\" provide the following information about that person in 2. A. through 2. P. 2. F. Enter Country of Citizenship.",
+      "/Type": "/Annot",
+      "id": "txtLine2fCountryOfCitizenship-0",
+      "name": "txtLine2fCountryOfCitizenship"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 25165825,
+      "/MK": {
+      },
+      "/MaxLen": 4,
+      "/P": "34 0 R",
+      "/Parent": "144 0 R",
+      "/Q": 0,
+      "/Rect": [
+        533.999,
+        630.0,
+        576.0,
+        648.0
+      ],
+      "/StructParent": 65,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2g_DaytimePhoneNumber3[0]",
+      "/TU": "u:Part 2. Application Type. If you checked box \"1. F.\" provide the following information about that person in 2. A. through 2. P. 2. G. Daytime Phone Number. Enter the last 4 digits of Phone Number.",
+      "/Type": "/Annot",
+      "id": "txtLine2gDaytimePhoneNumber3-0",
+      "name": "txtLine2gDaytimePhoneNumber3"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 25165825,
+      "/MK": {
+      },
+      "/MaxLen": 3,
+      "/P": "34 0 R",
+      "/Parent": "144 0 R",
+      "/Q": 0,
+      "/Rect": [
+        450.0,
+        630.0,
+        480.002,
+        648.0
+      ],
+      "/StructParent": 63,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2g_DaytimePhoneNumber1[0]",
+      "/TU": "u:Part 2. Application Type. If you checked box \"1. F.\" provide the following information about that person in 2. A. through 2. P. 2. G. Daytime Phone Number. Enter the 3 digit Area Code.",
+      "/Type": "/Annot",
+      "id": "txtLine2gDaytimePhoneNumber1-0",
+      "name": "txtLine2gDaytimePhoneNumber1"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 25165825,
+      "/MK": {
+      },
+      "/MaxLen": 3,
+      "/P": "34 0 R",
+      "/Parent": "144 0 R",
+      "/Q": 0,
+      "/Rect": [
+        492.001,
+        630.0,
+        522.0,
+        648.0
+      ],
+      "/StructParent": 64,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2g_DaytimePhoneNumber2[0]",
+      "/TU": "u:Part 2. Application Type. If you checked box \"1. F.\" provide the following information about that person in 2. A. through 2. P. 2. G. Daytime Phone Number. Enter the first 3 digits of Phone Number.",
+      "/Type": "/Annot",
+      "id": "txtLine2gDaytimePhoneNumber2-0",
+      "name": "txtLine2gDaytimePhoneNumber2"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 34,
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        342.0,
+        558.0,
+        576.0,
+        576.0
+      ],
+      "/StructParent": 42,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2h_InCareofName[0]",
+      "/TU": "u:Part 2. Application Type. Physical Address (If you checked box 1. F.). 2. H. Enter In Care of Name.",
+      "/Type": "/Annot",
+      "id": "txtLine2hInCareofName-0",
+      "name": "txtLine2hInCareofName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 25,
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        407.999,
+        534.002,
+        576.0,
+        552.002
+      ],
+      "/StructParent": 48,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2i_StreetNumberName[0]",
+      "/TU": "u:Part 2. Application Type. Physical Address (If you checked box 1. F.). 2. I. Enter Street Number and Name.",
+      "/Type": "/Annot",
+      "id": "txtLine2iStreetNumberName-0",
+      "name": "txtLine2iStreetNumberName"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ STE ": "504 0 R",
+          "/Off": "505 0 R"
+        },
+        "/N": {
+          "/ STE ": "506 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Btn",
+      "/Ff": 1,
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        409.0,
+        513.998,
+        419.0,
+        523.998
+      ],
+      "/StructParent": 49,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2j_Unit[0]",
+      "/TU": "u:Part 2. Application Type. Physical Address (If you checked box 1. F.). 2. J.  Check Suite.",
+      "/Type": "/Annot",
+      "id": "rdoLine2jUnit-0",
+      "name": "rdoLine2jUnit"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ FLR ": "507 0 R",
+          "/Off": "508 0 R"
+        },
+        "/N": {
+          "/ FLR ": "509 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Btn",
+      "/Ff": 1,
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        450.998,
+        513.998,
+        460.998,
+        523.998
+      ],
+      "/StructParent": 50,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2j_Unit[1]",
+      "/TU": "u:Part 2. Application Type. Physical Address (If you checked box 1. F.). 2. J.  Check Floor.",
+      "/Type": "/Annot",
+      "id": "rdoLine2jUnit-1",
+      "name": "rdoLine2jUnit"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 4,
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        468.0,
+        509.998,
+        576.0,
+        527.998
+      ],
+      "/StructParent": 51,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2j_AptSteFlrNumber[0]",
+      "/TU": "u:Part 2. Application Type. Physical Address (If you checked box 1. F.). 2. J.  If Apartment, Suite or Floor, is Checked, Enter Apartment, Suite or Floor Number.",
+      "/Type": "/Annot",
+      "id": "txtLine2jAptSteFlrNumber-0",
+      "name": "txtLine2jAptSteFlrNumber"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ APT ": "510 0 R",
+          "/Off": "511 0 R"
+        },
+        "/N": {
+          "/ APT ": "512 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Btn",
+      "/Ff": 1,
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        366.999,
+        514.001,
+        376.999,
+        524.001
+      ],
+      "/StructParent": 52,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2j_Unit[2]",
+      "/TU": "u:Part 2. Application Type. Physical Address (If you checked box 1. F.). 2. J.  Check Apartment.",
+      "/Type": "/Annot",
+      "id": "rdoLine2jUnit-2",
+      "name": "rdoLine2jUnit"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 20,
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        407.999,
+        486.0,
+        576.0,
+        504.0
+      ],
+      "/StructParent": 53,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2k_CityOrTown[0]",
+      "/TU": "u:Part 2. Application Type. Physical Address (If you checked box 1. F.). 2. K.  Enter City or Town.",
+      "/Type": "/Annot",
+      "id": "txtLine2kCityOrTown-0",
+      "name": "txtLine2kCityOrTown"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Ch",
+      "/Ff": 67239937,
+      "/MK": {
+      },
+      "/Opt": [
+        [
+          "u: ",
+          "u: "
+        ],
+        [
+          "u:AA",
+          "u:AA"
+        ],
+        [
+          "u:AE",
+          "u:AE"
+        ],
+        [
+          "u:AK",
+          "u:AK"
+        ],
+        [
+          "u:AL",
+          "u:AL"
+        ],
+        [
+          "u:AP",
+          "u:AP"
+        ],
+        [
+          "u:AR",
+          "u:AR"
+        ],
+        [
+          "u:AS",
+          "u:AS"
+        ],
+        [
+          "u:AZ",
+          "u:AZ"
+        ],
+        [
+          "u:CA",
+          "u:CA"
+        ],
+        [
+          "u:CO",
+          "u:CO"
+        ],
+        [
+          "u:CT",
+          "u:CT"
+        ],
+        [
+          "u:DC",
+          "u:DC"
+        ],
+        [
+          "u:DE",
+          "u:DE"
+        ],
+        [
+          "u:FL",
+          "u:FL"
+        ],
+        [
+          "u:FM",
+          "u:FM"
+        ],
+        [
+          "u:GA",
+          "u:GA"
+        ],
+        [
+          "u:GU",
+          "u:GU"
+        ],
+        [
+          "u:HI",
+          "u:HI"
+        ],
+        [
+          "u:IA",
+          "u:IA"
+        ],
+        [
+          "u:ID",
+          "u:ID"
+        ],
+        [
+          "u:IL",
+          "u:IL"
+        ],
+        [
+          "u:IN",
+          "u:IN"
+        ],
+        [
+          "u:KS",
+          "u:KS"
+        ],
+        [
+          "u:KY",
+          "u:KY"
+        ],
+        [
+          "u:LA",
+          "u:LA"
+        ],
+        [
+          "u:MA",
+          "u:MA"
+        ],
+        [
+          "u:MD",
+          "u:MD"
+        ],
+        [
+          "u:ME",
+          "u:ME"
+        ],
+        [
+          "u:MH",
+          "u:MH"
+        ],
+        [
+          "u:MI",
+          "u:MI"
+        ],
+        [
+          "u:MN",
+          "u:MN"
+        ],
+        [
+          "u:MO",
+          "u:MO"
+        ],
+        [
+          "u:MP",
+          "u:MP"
+        ],
+        [
+          "u:MS",
+          "u:MS"
+        ],
+        [
+          "u:MT",
+          "u:MT"
+        ],
+        [
+          "u:NC",
+          "u:NC"
+        ],
+        [
+          "u:ND",
+          "u:ND"
+        ],
+        [
+          "u:NE",
+          "u:NE"
+        ],
+        [
+          "u:NH",
+          "u:NH"
+        ],
+        [
+          "u:NJ",
+          "u:NJ"
+        ],
+        [
+          "u:NM",
+          "u:NM"
+        ],
+        [
+          "u:NV",
+          "u:NV"
+        ],
+        [
+          "u:NY",
+          "u:NY"
+        ],
+        [
+          "u:OH",
+          "u:OH"
+        ],
+        [
+          "u:OK",
+          "u:OK"
+        ],
+        [
+          "u:OR",
+          "u:OR"
+        ],
+        [
+          "u:PA",
+          "u:PA"
+        ],
+        [
+          "u:PR",
+          "u:PR"
+        ],
+        [
+          "u:PW",
+          "u:PW"
+        ],
+        [
+          "u:RI",
+          "u:RI"
+        ],
+        [
+          "u:SC",
+          "u:SC"
+        ],
+        [
+          "u:SD",
+          "u:SD"
+        ],
+        [
+          "u:TN",
+          "u:TN"
+        ],
+        [
+          "u:TX",
+          "u:TX"
+        ],
+        [
+          "u:UT",
+          "u:UT"
+        ],
+        [
+          "u:UT",
+          "u:UT"
+        ],
+        [
+          "u:VA",
+          "u:VA"
+        ],
+        [
+          "u:VI",
+          "u:VI"
+        ],
+        [
+          "u:VT",
+          "u:VT"
+        ],
+        [
+          "u:WA",
+          "u:WA"
+        ],
+        [
+          "u:WI",
+          "u:WI"
+        ],
+        [
+          "u:WV",
+          "u:WV"
+        ],
+        [
+          "u:WY",
+          "u:WY"
+        ]
+      ],
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        368.001,
+        461.999,
+        402.001,
+        479.999
+      ],
+      "/StructParent": 57,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2l_State[0]",
+      "/TU": "u:Part 2. Application Type. Physical Address (If you checked box 1. F.). 2. L. Select State from a list of States.",
+      "/Type": "/Annot",
+      "id": "selLine2lState-0",
+      "name": "selLine2lState"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 5,
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        474.001,
+        461.999,
+        576.0,
+        479.999
+      ],
+      "/StructParent": 56,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2m_ZipCode[0]",
+      "/TU": "u:Part 2. Application Type. Physical Address (If you checked box 1. F.). 2. M. Enter Zip Code. ",
+      "/Type": "/Annot",
+      "id": "txtLine2mZipCode-0",
+      "name": "txtLine2mZipCode"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 9,
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        407.999,
+        438.001,
+        575.878,
+        456.001
+      ],
+      "/StructParent": 55,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2n_PostalCode[0]",
+      "/TU": "u:Part 2. Application Type. Physical Address (If you checked box 1. F.). 2. N. Enter Postal Code.",
+      "/Type": "/Annot",
+      "id": "txtLine2nPostalCode-0",
+      "name": "txtLine2nPostalCode"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 20,
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        407.999,
+        414.0,
+        575.878,
+        432.0
+      ],
+      "/StructParent": 54,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2o_Province[0]",
+      "/TU": "u:Part 2. Application Type. Physical Address (If you checked box 1. F.). 2. O. Enter Province. ",
+      "/Type": "/Annot",
+      "id": "txtLine2oProvince-0",
+      "name": "txtLine2oProvince"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        378.0,
+        389.999,
+        576.0,
+        407.999
+      ],
+      "/StructParent": 62,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2p_Country[0]",
+      "/TU": "u:Part 2. Application Type. Physical Address (If you checked box 1. F.). 2. P. Enter Country.",
+      "/Type": "/Annot",
+      "id": "txtLine2pCountry-0",
+      "name": "txtLine2pCountry"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        204.001,
+        306.0,
+        294.001,
+        324.0
+      ],
+      "/StructParent": 46,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1_DateIntendedDeparture[0]",
+      "/TU": "u:Part 3. Processing Information. 1. Enter Date of Intended Departure as 2-digit Month, 2-digit Day, and 4-digit Year.",
+      "/Type": "/Annot",
+      "id": "txtLine1DateIntendedDeparture-0",
+      "name": "txtLine1DateIntendedDeparture"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        252.0,
+        275.998,
+        293.998,
+        293.998
+      ],
+      "/StructParent": 37,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2_ExpectedLengthTrip[0]",
+      "/TU": "u:Part 3. Processing Information. 2. Enter Expected Length of Trip (in days).",
+      "/Type": "/Annot",
+      "id": "txtLine2ExpectedLengthTrip-0",
+      "name": "txtLine2ExpectedLengthTrip"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "513 0 R",
+          "/Y": "514 0 R"
+        },
+        "/N": {
+          "/Y": "515 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        218.16,
+        225.998,
+        228.16,
+        235.998
+      ],
+      "/StructParent": 58,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3a_Yes[0]",
+      "/TU": "u:Part 3. Processing Information. 3. A. Are you, or any person included in this application, now in exclusion, deportation, removal, or rescission proceedings? Check Yes. ",
+      "/Type": "/Annot",
+      "id": "rdoLine3aYes-0",
+      "name": "rdoLine3aYes"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "516 0 R",
+          "/Y": "517 0 R"
+        },
+        "/N": {
+          "/Y": "518 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        260.161,
+        225.998,
+        270.161,
+        235.998
+      ],
+      "/StructParent": 59,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3a_No[0]",
+      "/TU": "u:Part 3. Processing Information. 3. A. Are you, or any person included in this application, now in exclusion, deportation, removal, or rescission proceedings? Check No.",
+      "/Type": "/Annot",
+      "id": "rdoLine3aNo-0",
+      "name": "rdoLine3aNo"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        60.001,
+        185.995,
+        294.001,
+        203.995
+      ],
+      "/StructParent": 38,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3b_NameDHSOffice[0]",
+      "/TU": "u:Part 3. Processing Information. 3. B. If 3. A. Yes, is Checked, Enter Name of Department of Homeland Security (D H S) office. ",
+      "/Type": "/Annot",
+      "id": "txtLine3bNameDHSOffice-0",
+      "name": "txtLine3bNameDHSOffice"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "501 0 R",
+          "/Y": "502 0 R"
+        },
+        "/N": {
+          "/Y": "503 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        542.16,
+        285.999,
+        552.16,
+        295.999
+      ],
+      "/StructParent": 44,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4a_No[0]",
+      "/TU": "u:Part 3. Processing Information. 4. A. Have you ever before been issued a reentry permit or Refugee Travel Document? (If \"Yes\" give the following information for the last document issued to you). Check No.",
+      "/Type": "/Annot",
+      "id": "rdoLine4aNo-0",
+      "name": "rdoLine4aNo"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        486.0,
+        257.998,
+        576.0,
+        275.998
+      ],
+      "/StructParent": 47,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4b_DateIssued[0]",
+      "/TU": "u:Part 3. Processing Information. 4. B. If 4. A. Yes, is Checked, Enter Date Issued as 2-digit Month, 2-digit Day, and 4-digit Year.",
+      "/Type": "/Annot",
+      "id": "txtLine4bDateIssued-0",
+      "name": "txtLine4bDateIssued"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Q": 0,
+      "/Rect": [
+        342.0,
+        221.998,
+        576.0,
+        239.998
+      ],
+      "/StructParent": 41,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4c_Disposition[0]",
+      "/TU": "u:Part 3. Processing Information. 4. C. If 4. A. Yes, is Checked, Enter Disposition (attached, lost, etcetera). ",
+      "/Type": "/Annot",
+      "id": "txtLine4cDisposition-0",
+      "name": "txtLine4cDisposition"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "498 0 R",
+          "/Y": "499 0 R"
+        },
+        "/N": {
+          "/Y": "500 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "34 0 R",
+      "/Parent": "50 0 R",
+      "/Rect": [
+        500.159,
+        285.999,
+        510.159,
+        295.999
+      ],
+      "/StructParent": 43,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4a_Yes[0]",
+      "/TU": "u:Part 3. Processing Information. 4. A. Have you ever before been issued a reentry permit or Refugee Travel Document? (If \"Yes\" give the following information for the last document issued to you). Check Yes.",
+      "/Type": "/Annot",
+      "id": "rdoLine4aYes-0",
+      "name": "rdoLine4aYes"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 34,
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        342.0,
+        690.001,
+        576.0,
+        708.001
+      ],
+      "/StructParent": 78,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10a_InCareofName[0]",
+      "/TU": "u:Part 3. Processing Information. 10. A. Enter In Care of Name.",
+      "/Type": "/Annot",
+      "id": "txtLine10aInCareofName-0",
+      "name": "txtLine10aInCareofName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 25,
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        407.999,
+        666.0,
+        576.0,
+        684.0
+      ],
+      "/StructParent": 87,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10b_StreetNumberName[0]",
+      "/TU": "u:Part 3. Processing Information. 10. B. Enter Street Number and Name.",
+      "/Type": "/Annot",
+      "id": "txtLine10bStreetNumberName-0",
+      "name": "txtLine10bStreetNumberName"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ STE ": "558 0 R",
+          "/Off": "559 0 R"
+        },
+        "/N": {
+          "/ STE ": "560 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Btn",
+      "/Ff": 1,
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        409.0,
+        645.996,
+        419.0,
+        655.996
+      ],
+      "/StructParent": 88,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10c_Unit[0]",
+      "/TU": "u:Part 3. Processing Information. 10. C. Check Suite.",
+      "/Type": "/Annot",
+      "id": "rdoLine10cUnit-0",
+      "name": "rdoLine10cUnit"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ FLR ": "561 0 R",
+          "/Off": "562 0 R"
+        },
+        "/N": {
+          "/ FLR ": "563 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Btn",
+      "/Ff": 1,
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        450.998,
+        645.996,
+        460.998,
+        655.996
+      ],
+      "/StructParent": 89,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10c_Unit[1]",
+      "/TU": "u:Part 3. Processing Information. 10. C. Check Floor.",
+      "/Type": "/Annot",
+      "id": "rdoLine10cUnit-1",
+      "name": "rdoLine10cUnit"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 4,
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        468.0,
+        641.996,
+        576.0,
+        659.996
+      ],
+      "/StructParent": 90,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10c_AptSteFlrNumber[0]",
+      "/TU": "u:Part 3. Processing Information. 10. C. If Apartment, Suite or Floor, is Checked, Enter Apartment, Suite or Floor Number. ",
+      "/Type": "/Annot",
+      "id": "txtLine10cAptSteFlrNumber-0",
+      "name": "txtLine10cAptSteFlrNumber"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ APT ": "564 0 R",
+          "/Off": "565 0 R"
+        },
+        "/N": {
+          "/ APT ": "566 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Btn",
+      "/Ff": 1,
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        366.999,
+        645.999,
+        376.999,
+        655.999
+      ],
+      "/StructParent": 91,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10c_Unit[2]",
+      "/TU": "u:Part 3. Processing Information. 10. C. Check Apartment.",
+      "/Type": "/Annot",
+      "id": "rdoLine10cUnit-2",
+      "name": "rdoLine10cUnit"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 20,
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        407.999,
+        617.998,
+        576.0,
+        635.998
+      ],
+      "/StructParent": 86,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10d_CityOrTown[0]",
+      "/TU": "u:Part 3. Processing Information. 10. D.  Enter City or Town.",
+      "/Type": "/Annot",
+      "id": "txtLine10dCityOrTown-0",
+      "name": "txtLine10dCityOrTown"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Ch",
+      "/Ff": 67239937,
+      "/MK": {
+      },
+      "/Opt": [
+        [
+          "u: ",
+          "u: "
+        ],
+        [
+          "u:AA",
+          "u:AA"
+        ],
+        [
+          "u:AE",
+          "u:AE"
+        ],
+        [
+          "u:AK",
+          "u:AK"
+        ],
+        [
+          "u:AL",
+          "u:AL"
+        ],
+        [
+          "u:AP",
+          "u:AP"
+        ],
+        [
+          "u:AR",
+          "u:AR"
+        ],
+        [
+          "u:AS",
+          "u:AS"
+        ],
+        [
+          "u:AZ",
+          "u:AZ"
+        ],
+        [
+          "u:CA",
+          "u:CA"
+        ],
+        [
+          "u:CO",
+          "u:CO"
+        ],
+        [
+          "u:CT",
+          "u:CT"
+        ],
+        [
+          "u:DC",
+          "u:DC"
+        ],
+        [
+          "u:DE",
+          "u:DE"
+        ],
+        [
+          "u:FL",
+          "u:FL"
+        ],
+        [
+          "u:FM",
+          "u:FM"
+        ],
+        [
+          "u:GA",
+          "u:GA"
+        ],
+        [
+          "u:GU",
+          "u:GU"
+        ],
+        [
+          "u:HI",
+          "u:HI"
+        ],
+        [
+          "u:IA",
+          "u:IA"
+        ],
+        [
+          "u:ID",
+          "u:ID"
+        ],
+        [
+          "u:IL",
+          "u:IL"
+        ],
+        [
+          "u:IN",
+          "u:IN"
+        ],
+        [
+          "u:KS",
+          "u:KS"
+        ],
+        [
+          "u:KY",
+          "u:KY"
+        ],
+        [
+          "u:LA",
+          "u:LA"
+        ],
+        [
+          "u:MA",
+          "u:MA"
+        ],
+        [
+          "u:MD",
+          "u:MD"
+        ],
+        [
+          "u:ME",
+          "u:ME"
+        ],
+        [
+          "u:MH",
+          "u:MH"
+        ],
+        [
+          "u:MI",
+          "u:MI"
+        ],
+        [
+          "u:MN",
+          "u:MN"
+        ],
+        [
+          "u:MO",
+          "u:MO"
+        ],
+        [
+          "u:MP",
+          "u:MP"
+        ],
+        [
+          "u:MS",
+          "u:MS"
+        ],
+        [
+          "u:MT",
+          "u:MT"
+        ],
+        [
+          "u:NC",
+          "u:NC"
+        ],
+        [
+          "u:ND",
+          "u:ND"
+        ],
+        [
+          "u:NE",
+          "u:NE"
+        ],
+        [
+          "u:NH",
+          "u:NH"
+        ],
+        [
+          "u:NJ",
+          "u:NJ"
+        ],
+        [
+          "u:NM",
+          "u:NM"
+        ],
+        [
+          "u:NV",
+          "u:NV"
+        ],
+        [
+          "u:NY",
+          "u:NY"
+        ],
+        [
+          "u:OH",
+          "u:OH"
+        ],
+        [
+          "u:OK",
+          "u:OK"
+        ],
+        [
+          "u:OR",
+          "u:OR"
+        ],
+        [
+          "u:PA",
+          "u:PA"
+        ],
+        [
+          "u:PR",
+          "u:PR"
+        ],
+        [
+          "u:PW",
+          "u:PW"
+        ],
+        [
+          "u:RI",
+          "u:RI"
+        ],
+        [
+          "u:SC",
+          "u:SC"
+        ],
+        [
+          "u:SD",
+          "u:SD"
+        ],
+        [
+          "u:TN",
+          "u:TN"
+        ],
+        [
+          "u:TX",
+          "u:TX"
+        ],
+        [
+          "u:UT",
+          "u:UT"
+        ],
+        [
+          "u:UT",
+          "u:UT"
+        ],
+        [
+          "u:VA",
+          "u:VA"
+        ],
+        [
+          "u:VI",
+          "u:VI"
+        ],
+        [
+          "u:VT",
+          "u:VT"
+        ],
+        [
+          "u:WA",
+          "u:WA"
+        ],
+        [
+          "u:WI",
+          "u:WI"
+        ],
+        [
+          "u:WV",
+          "u:WV"
+        ],
+        [
+          "u:WY",
+          "u:WY"
+        ]
+      ],
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        368.001,
+        594.0,
+        402.001,
+        612.0
+      ],
+      "/StructParent": 94,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10e_State[0]",
+      "/TU": "u:Part 3. Processing Information. 10. E. Select State from a list of States.  ",
+      "/Type": "/Annot",
+      "id": "selLine10eState-0",
+      "name": "selLine10eState"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 5,
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        474.001,
+        594.0,
+        576.0,
+        612.0
+      ],
+      "/StructParent": 95,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10f_ZipCode[0]",
+      "/TU": "u:Part 3. Processing Information. 10. F.  Enter Zip Code.",
+      "/Type": "/Annot",
+      "id": "txtLine10fZipCode-0",
+      "name": "txtLine10fZipCode"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 9,
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        407.999,
+        569.999,
+        575.878,
+        587.999
+      ],
+      "/StructParent": 93,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10g_PostalCode[0]",
+      "/TU": "u:Part 3. Processing Information. 10. G.  Enter Postal Code.",
+      "/Type": "/Annot",
+      "id": "txtLine10gPostalCode-0",
+      "name": "txtLine10gPostalCode"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 20,
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        407.999,
+        546.001,
+        575.878,
+        564.001
+      ],
+      "/StructParent": 92,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10h_Province[0]",
+      "/TU": "u:Part 3. Processing Information. 10. H.  Enter Province. ",
+      "/Type": "/Annot",
+      "id": "txtLine10hProvince-0",
+      "name": "txtLine10hProvince"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "525 0 R",
+          "/Y": "526 0 R"
+        },
+        "/N": {
+          "/Y": "527 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Btn",
+      "/Ff": 1,
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        60.999,
+        469.001,
+        70.999,
+        479.001
+      ],
+      "/StructParent": 70,
+      "/Subtype": "/Widget",
+      "/T": "u:Line9_AddressBelow[0]",
+      "/TU": "u:Part 3. Processing Information. If you checked \"6\" or \"7\", where should the notice to pick up the travel document be sent? Check 9. To the address shown in Part 3 (10. A. through 10. I.) of this form.",
+      "/Type": "/Annot",
+      "id": "rdoLine9AddressBelow-0",
+      "name": "rdoLine9AddressBelow"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        378.0,
+        522.0,
+        576.0,
+        540.0
+      ],
+      "/StructParent": 96,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10i_Country[0]",
+      "/TU": "u:Part 3. Processing Information. 10. I. Enter Country.",
+      "/Type": "/Annot",
+      "id": "txtLine10iCountry-0",
+      "name": "txtLine10iCountry"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 25165825,
+      "/MK": {
+      },
+      "/MaxLen": 3,
+      "/P": "35 0 R",
+      "/Parent": "176 0 R",
+      "/Q": 0,
+      "/Rect": [
+        450.0,
+        497.999,
+        480.002,
+        515.999
+      ],
+      "/StructParent": 99,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10j_DaytimePhoneNumber1[0]",
+      "/TU": "u:Part 3. Processing Information. 10. J.  Daytime Phone Number. Enter the 3 digit Area Code.",
+      "/Type": "/Annot",
+      "id": "txtLine10jDaytimePhoneNumber1-0",
+      "name": "txtLine10jDaytimePhoneNumber1"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 25165825,
+      "/MK": {
+      },
+      "/MaxLen": 3,
+      "/P": "35 0 R",
+      "/Parent": "176 0 R",
+      "/Q": 0,
+      "/Rect": [
+        492.001,
+        497.999,
+        522.0,
+        515.999
+      ],
+      "/StructParent": 100,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10j_DaytimePhoneNumber2[0]",
+      "/TU": "u:Part 3. Processing Information. 10. J.  Daytime Phone Number. Enter the first 3 digits of Phone Number.",
+      "/Type": "/Annot",
+      "id": "txtLine10jDaytimePhoneNumber2-0",
+      "name": "txtLine10jDaytimePhoneNumber2"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 25165825,
+      "/MK": {
+      },
+      "/MaxLen": 4,
+      "/P": "35 0 R",
+      "/Parent": "176 0 R",
+      "/Q": 0,
+      "/Rect": [
+        533.999,
+        497.999,
+        576.0,
+        515.999
+      ],
+      "/StructParent": 101,
+      "/Subtype": "/Widget",
+      "/T": "u:Line10j_DaytimePhoneNumber3[0]",
+      "/TU": "u:Part 3. Processing Information. 10. J.  Daytime Phone Number. Enter the last 4 digits of Phone Number.",
+      "/Type": "/Annot",
+      "id": "txtLine10jDaytimePhoneNumber3-0",
+      "name": "txtLine10jDaytimePhoneNumber3"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "555 0 R",
+          "/Y": "556 0 R"
+        },
+        "/N": {
+          "/Y": "557 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        60.999,
+        690.999,
+        70.999,
+        700.999
+      ],
+      "/StructParent": 84,
+      "/Subtype": "/Widget",
+      "/T": "u:Line5_USAddress[0]",
+      "/TU": "u:Part 3. Processing Information. Where do you want this travel document sent? (Check one). Check 5. To the U. S. address shown in Part 1 (2. A. through 2. I.) of this form.",
+      "/Type": "/Annot",
+      "id": "rdoLine5USAddress-0",
+      "name": "rdoLine5USAddress"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "522 0 R",
+          "/Y": "523 0 R"
+        },
+        "/N": {
+          "/Y": "524 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Btn",
+      "/Ff": 1,
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        60.999,
+        499.0,
+        70.999,
+        509.0
+      ],
+      "/StructParent": 69,
+      "/Subtype": "/Widget",
+      "/T": "u:Line8_AddressPart2[0]",
+      "/TU": "u:Part 3. Processing Information. If you checked \"6\" or \"7\", where should the notice to pick up the travel document be sent? Check 8. To the address shown in Part 2 (2. H. through 2. P.) of this form.",
+      "/Type": "/Annot",
+      "id": "rdoLine8AddressPart2-0",
+      "name": "rdoLine8AddressPart2"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 20,
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        126.0,
+        636.001,
+        294.001,
+        654.001
+      ],
+      "/StructParent": 85,
+      "/Subtype": "/Widget",
+      "/T": "u:Line6a_CityOrTown[0]",
+      "/TU": "u:Part 3. Processing Information. 6. A. If 6. To a U. S. Embassy or consulate at, is Checked, Enter City or Town. ",
+      "/Type": "/Annot",
+      "id": "txtLine6aCityOrTown-0",
+      "name": "txtLine6aCityOrTown"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "552 0 R",
+          "/Y": "553 0 R"
+        },
+        "/N": {
+          "/Y": "554 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        61.002,
+        661.0,
+        71.002,
+        671.0
+      ],
+      "/StructParent": 83,
+      "/Subtype": "/Widget",
+      "/T": "u:Line6_USEmbassy[0]",
+      "/TU": "u:Part 3. Processing Information. Where do you want this travel document sent? (Check one). Check 6. To a U. S. Embassy or consulate at:",
+      "/Type": "/Annot",
+      "id": "rdoLine6USEmbassy-0",
+      "name": "rdoLine6USEmbassy"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        98.001,
+        612.0,
+        294.001,
+        630.0
+      ],
+      "/StructParent": 98,
+      "/Subtype": "/Widget",
+      "/T": "u:Line6b_Country[0]",
+      "/TU": "u:Part 3. Processing Information. 6. B. If 6. To a U. S. Embassy or consulate at, is Checked, Enter Country.",
+      "/Type": "/Annot",
+      "id": "txtLine6bCountry-0",
+      "name": "txtLine6bCountry"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        96.001,
+        546.001,
+        294.001,
+        564.001
+      ],
+      "/StructParent": 97,
+      "/Subtype": "/Widget",
+      "/T": "u:Line7b_Country[0]",
+      "/TU": "u:Part 3. Processing Information. 7. B . If 7. To a Department of Homeland Security (D H S) office overseas at, is Checked, Enter Country.",
+      "/Type": "/Annot",
+      "id": "txtLine7bCountry-0",
+      "name": "txtLine7bCountry"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "519 0 R",
+          "/Y": "520 0 R"
+        },
+        "/N": {
+          "/Y": "521 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        60.999,
+        595.001,
+        70.999,
+        605.001
+      ],
+      "/StructParent": 68,
+      "/Subtype": "/Widget",
+      "/T": "u:Line7_DHSOffice[0]",
+      "/TU": "u:Part 3. Processing Information. Where do you want this travel document sent? (Check one). Check 7. To a Department of Homeland Security (D H S) office overseas at:",
+      "/Type": "/Annot",
+      "id": "rdoLine7DHSOffice-0",
+      "name": "rdoLine7DHSOffice"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 20,
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        126.0,
+        569.999,
+        294.001,
+        587.999
+      ],
+      "/StructParent": 77,
+      "/Subtype": "/Widget",
+      "/T": "u:Line7a_CityOrTown[0]",
+      "/TU": "u:Part 3. Processing Information. 7. A . If 7. To a Department of Homeland Security (D H S) office overseas at, is Checked, Enter City or Town.",
+      "/Type": "/Annot",
+      "id": "txtLine7aCityOrTown-0",
+      "name": "txtLine7aCityOrTown"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8392704,
+      "/MK": {
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        60.001,
+        323.997,
+        294.001,
+        395.997
+      ],
+      "/StructParent": 79,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1a_Purpose[0]",
+      "/TU": "u:Part 4. Information About Your Proposed Travel. 1. A. Enter Purpose of trip. (If you need more space, continue on a separate sheet of paper.)",
+      "/Type": "/Annot",
+      "id": "txtLine1aPurpose-0",
+      "name": "txtLine1aPurpose"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8392704,
+      "/MK": {
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Q": 0,
+      "/Rect": [
+        342.0,
+        323.997,
+        576.0,
+        395.997
+      ],
+      "/StructParent": 80,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1b_ListCountries[0]",
+      "/TU": "u:Part 4. Information About Your Proposed Travel. 1. B. List the countries you intend to visit. (If you need more space, continue on a separate sheet of paper.) ",
+      "/Type": "/Annot",
+      "id": "txtLine1bListCountries-0",
+      "name": "txtLine1bListCountries"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "528 0 R",
+          "/Y": "529 0 R"
+        },
+        "/N": {
+          "/Y": "530 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        60.999,
+        229.0,
+        70.999,
+        239.0
+      ],
+      "/StructParent": 71,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1a_Lessthan6[0]",
+      "/TU": "u:Part 5. Complete Only If Applying for a Re-entry Permit. Since becoming a permanent resident of the United States (or during the past 5 years, whichever is less) how much total time have you spent outside the United States? Check 1. A. less than 6 months.",
+      "/Type": "/Annot",
+      "id": "rdoLine1aLessthan6-0",
+      "name": "rdoLine1aLessthan6"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "531 0 R",
+          "/Y": "532 0 R"
+        },
+        "/N": {
+          "/Y": "533 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        60.999,
+        217.001,
+        70.999,
+        227.001
+      ],
+      "/StructParent": 72,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1b_6months[0]",
+      "/TU": "u:Part 5. Complete Only If Applying for a Re-entry Permit. Since becoming a permanent resident of the United States (or during the past 5 years, whichever is less) how much total time have you spent outside the United States? Check 1. B. 6 months to 1 year.",
+      "/Type": "/Annot",
+      "id": "rdoLine1b6months-0",
+      "name": "rdoLine1b6months"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "534 0 R",
+          "/Y": "535 0 R"
+        },
+        "/N": {
+          "/Y": "536 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        60.999,
+        205.002,
+        70.999,
+        215.002
+      ],
+      "/StructParent": 73,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1c_1to2[0]",
+      "/TU": "u:Part 5. Complete Only If Applying for a Re-entry Permit. Since becoming a permanent resident of the United States (or during the past 5 years, whichever is less) how much total time have you spent outside the United States? Check 1. C. 1 to 2 years.",
+      "/Type": "/Annot",
+      "id": "rdoLine1c1to2-0",
+      "name": "rdoLine1c1to2"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "537 0 R",
+          "/Y": "538 0 R"
+        },
+        "/N": {
+          "/Y": "539 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        193.0,
+        229.0,
+        203.0,
+        239.0
+      ],
+      "/StructParent": 74,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1d_2to3[0]",
+      "/TU": "u:Part 5. Complete Only If Applying for a Re-entry Permit. Since becoming a permanent resident of the United States (or during the past 5 years, whichever is less) how much total time have you spent outside the United States? Check 1. D. 2 to 3 years.",
+      "/Type": "/Annot",
+      "id": "rdoLine1d2to3-0",
+      "name": "rdoLine1d2to3"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "540 0 R",
+          "/Y": "541 0 R"
+        },
+        "/N": {
+          "/Y": "542 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        193.0,
+        217.001,
+        203.0,
+        227.001
+      ],
+      "/StructParent": 75,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1e_3to4[0]",
+      "/TU": "u:Part 5. Complete Only If Applying for a Re-entry Permit. Since becoming a permanent resident of the United States (or during the past 5 years, whichever is less) how much total time have you spent outside the United States? Check 1. E. 3 to 4 years.",
+      "/Type": "/Annot",
+      "id": "rdoLine1e3to4-0",
+      "name": "rdoLine1e3to4"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "543 0 R",
+          "/Y": "544 0 R"
+        },
+        "/N": {
+          "/Y": "545 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        193.0,
+        205.002,
+        203.0,
+        215.002
+      ],
+      "/StructParent": 76,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1f_morethan[0]",
+      "/TU": "u:Part 5. Complete Only If Applying for a Re-entry Permit. Since becoming a permanent resident of the United States (or during the past 5 years, whichever is less) how much total time have you spent outside the United States? Check 1. F. more than 4 years.",
+      "/Type": "/Annot",
+      "id": "rdoLine1fmorethan-0",
+      "name": "rdoLine1fmorethan"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "549 0 R",
+          "/Y": "550 0 R"
+        },
+        "/N": {
+          "/Y": "551 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        542.16,
+        208.001,
+        552.16,
+        218.001
+      ],
+      "/StructParent": 82,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2_No[0]",
+      "/TU": "u:Part 5. Complete Only If Applying for a Re-entry Permit. 2. Since you became a permanent resident of the United States, have you ever filed a Federal income tax return as a nonresident or failed to file a Federal income tax return because you considered yourself to be a nonresident? (If \"Yes\" give details on a separate sheet of paper.) Check No.",
+      "/Type": "/Annot",
+      "id": "rdoLine2No-0",
+      "name": "rdoLine2No"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "546 0 R",
+          "/Y": "547 0 R"
+        },
+        "/N": {
+          "/Y": "548 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "35 0 R",
+      "/Parent": "51 0 R",
+      "/Rect": [
+        500.159,
+        208.001,
+        510.159,
+        218.001
+      ],
+      "/StructParent": 81,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2_Yes[0]",
+      "/TU": "u:Part 5. Complete Only If Applying for a Re-entry Permit. 2. Since you became a permanent resident of the United States, have you ever filed a Federal income tax return as a nonresident or failed to file a Federal income tax return because you considered yourself to be a nonresident? (If \"Yes\" give details on a separate sheet of paper.) Check Yes.",
+      "/Type": "/Annot",
+      "id": "rdoLine2Yes-0",
+      "name": "rdoLine2Yes"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Q": 0,
+      "/Rect": [
+        62.001,
+        690.001,
+        294.001,
+        708.001
+      ],
+      "/StructParent": 134,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1_CountryRefugee[0]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. 1. Country from which you are a refugee or asylee.  Enter Country.",
+      "/Type": "/Annot",
+      "id": "txtLine1CountryRefugee-0",
+      "name": "txtLine1CountryRefugee"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "618 0 R",
+          "/Y": "619 0 R"
+        },
+        "/N": {
+          "/Y": "620 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        218.16,
+        627.999,
+        228.16,
+        637.999
+      ],
+      "/StructParent": 122,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2_Yes1[0]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 2. Do you plan to travel to the country named above? Check Yes.",
+      "/Type": "/Annot",
+      "id": "rdoLine2Yes1-0",
+      "name": "rdoLine2Yes1"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "609 0 R",
+          "/Y": "610 0 R"
+        },
+        "/N": {
+          "/Y": "611 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        260.161,
+        627.999,
+        270.161,
+        637.999
+      ],
+      "/StructParent": 119,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2_No1[0]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 2. Do you plan to travel to the country named above? Check No.",
+      "/Type": "/Annot",
+      "id": "rdoLine2No1-0",
+      "name": "rdoLine2No1"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "615 0 R",
+          "/Y": "616 0 R"
+        },
+        "/N": {
+          "/Y": "617 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        260.161,
+        573.999,
+        270.161,
+        583.999
+      ],
+      "/StructParent": 121,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3a_No1[0]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 3. A. Since you were accorded refugee/asylee status, have you ever: Returned to the country named above? Check No.",
+      "/Type": "/Annot",
+      "id": "rdoLine3aNo1-0",
+      "name": "rdoLine3aNo1"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "612 0 R",
+          "/Y": "613 0 R"
+        },
+        "/N": {
+          "/Y": "614 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        218.16,
+        573.999,
+        228.16,
+        583.999
+      ],
+      "/StructParent": 120,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3a_Yes1[0]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 3. A. Since you were accorded refugee/asylee status, have you ever: Returned to the country named above? Check Yes.",
+      "/Type": "/Annot",
+      "id": "rdoLine3aYes1-0",
+      "name": "rdoLine3aYes1"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "600 0 R",
+          "/Y": "601 0 R"
+        },
+        "/N": {
+          "/Y": "602 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        218.16,
+        519.999,
+        228.16,
+        529.999
+      ],
+      "/StructParent": 115,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3b_Yes[0]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 3. B. Since you were accorded refugee/asylee status, have you ever: Applied for and/or obtained a  national passport, passport renewal, or entry permit of that country? Check Yes.",
+      "/Type": "/Annot",
+      "id": "rdoLine3bYes-0",
+      "name": "rdoLine3bYes"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "567 0 R",
+          "/Y": "568 0 R"
+        },
+        "/N": {
+          "/Y": "569 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        260.161,
+        519.999,
+        270.161,
+        529.999
+      ],
+      "/StructParent": 104,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3b_No[0]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 3. B. Since you were accorded refugee/asylee status, have you ever: Applied for and/or obtained a  national passport, passport renewal, or entry permit of that country? Check No.",
+      "/Type": "/Annot",
+      "id": "rdoLine3bNo-0",
+      "name": "rdoLine3bNo"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "570 0 R",
+          "/Y": "571 0 R"
+        },
+        "/N": {
+          "/Y": "572 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        500.159,
+        682.002,
+        510.159,
+        692.002
+      ],
+      "/StructParent": 105,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3c_Yes[0]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 3. C.  Since you were accorded refugee/asylee status, have you ever: Applied for and/or received any benefit from such country (for example, health insurance benefits)?    Check Yes.",
+      "/Type": "/Annot",
+      "id": "rdoLine3cYes-0",
+      "name": "rdoLine3cYes"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "594 0 R",
+          "/Y": "595 0 R"
+        },
+        "/N": {
+          "/Y": "596 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        542.16,
+        682.002,
+        552.16,
+        692.002
+      ],
+      "/StructParent": 113,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3c_No[0]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 3. C.  Since you were accorded refugee/asylee status, have you ever: Applied for and/or received any benefit from such country (for example, health insurance benefits)?    Check No.",
+      "/Type": "/Annot",
+      "id": "rdoLine3cNo-0",
+      "name": "rdoLine3cNo"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "591 0 R",
+          "/Y": "592 0 R"
+        },
+        "/N": {
+          "/Y": "593 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        500.159,
+        621.998,
+        510.159,
+        631.998
+      ],
+      "/StructParent": 112,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4a_Yes[1]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 4. A. Since you were accorded refugee/asylee status, have you, by any legal procedure or voluntary act: Reacquired the nationality of the country named above? Check Yes.",
+      "/Type": "/Annot",
+      "id": "rdoLine4aYes-1",
+      "name": "rdoLine4aYes"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "576 0 R",
+          "/Y": "577 0 R"
+        },
+        "/N": {
+          "/Y": "578 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        542.16,
+        621.998,
+        552.16,
+        631.998
+      ],
+      "/StructParent": 107,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4a_No[1]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 4. A. Since you were accorded refugee/asylee status, have you, by any legal procedure or voluntary act: Reacquired the nationality of the country named above? Check No.",
+      "/Type": "/Annot",
+      "id": "rdoLine4aNo-1",
+      "name": "rdoLine4aNo"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "579 0 R",
+          "/Y": "580 0 R"
+        },
+        "/N": {
+          "/Y": "581 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        500.159,
+        598.0,
+        510.159,
+        608.0
+      ],
+      "/StructParent": 108,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4b_Yes[0]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 4. B. Since you were accorded refugee/asylee status, have you, by any legal procedure or voluntary act: Acquired a new nationality? Check Yes.",
+      "/Type": "/Annot",
+      "id": "rdoLine4bYes-0",
+      "name": "rdoLine4bYes"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "588 0 R",
+          "/Y": "589 0 R"
+        },
+        "/N": {
+          "/Y": "590 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        542.16,
+        598.0,
+        552.16,
+        608.0
+      ],
+      "/StructParent": 111,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4b_No[0]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 4. B. Since you were accorded refugee/asylee status, have you, by any legal procedure or voluntary act: Acquired a new nationality? Check No.",
+      "/Type": "/Annot",
+      "id": "rdoLine4bNo-0",
+      "name": "rdoLine4bNo"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "585 0 R",
+          "/Y": "586 0 R"
+        },
+        "/N": {
+          "/Y": "587 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        500.159,
+        573.999,
+        510.159,
+        583.999
+      ],
+      "/StructParent": 110,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4c_Yes[0]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 4. C. Since you were accorded refugee/asylee status, have you, by any legal procedure or voluntary act: Been granted refugee or asylee status in any other country? Check Yes.",
+      "/Type": "/Annot",
+      "id": "rdoLine4cYes-0",
+      "name": "rdoLine4cYes"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "582 0 R",
+          "/Y": "583 0 R"
+        },
+        "/N": {
+          "/Y": "584 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        542.16,
+        573.999,
+        552.16,
+        583.999
+      ],
+      "/StructParent": 109,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4c_No[0]",
+      "/TU": "u:Part 6. Complete Only If Applying for a Refugee Travel Document. If you answer \"Yes\" to any of the following questions, you must explain on a separate sheet of paper. Include your Name and A-Number on the top of each sheet. 4. C. Since you were accorded refugee/asylee status, have you, by any legal procedure or voluntary act: Been granted refugee or asylee status in any other country? Check No.",
+      "/Type": "/Annot",
+      "id": "rdoLine4cNo-0",
+      "name": "rdoLine4cNo"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "597 0 R",
+          "/Y": "598 0 R"
+        },
+        "/N": {
+          "/Y": "599 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        200.16,
+        406.001,
+        210.16,
+        416.001
+      ],
+      "/StructParent": 114,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1_MoreThanOne[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. On a separate sheet of paper, explain how you qualify for an Advance Parole Document, and what circumstances warrant issuance of advance parole. Include copies of any documents you wish considered. (See instructions.) 1. How many trips do you intend to use this document? Check More than one trip.",
+      "/Type": "/Annot",
+      "id": "rdoLine1MoreThanOne-0",
+      "name": "rdoLine1MoreThanOne"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "573 0 R",
+          "/Y": "574 0 R"
+        },
+        "/N": {
+          "/Y": "575 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        140.159,
+        406.001,
+        150.159,
+        416.001
+      ],
+      "/StructParent": 106,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1_OneTrip[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. On a separate sheet of paper, explain how you qualify for an Advance Parole Document, and what circumstances warrant issuance of advance parole. Include copies of any documents you wish considered. (See instructions.) 1. How many trips do you intend to use this document? Check One Trip.",
+      "/Type": "/Annot",
+      "id": "rdoLine1OneTrip-0",
+      "name": "rdoLine1OneTrip"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 20,
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Q": 0,
+      "/Rect": [
+        60.001,
+        312.001,
+        294.001,
+        330.001
+      ],
+      "/StructParent": 118,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2a_CityOrTown[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. If the person intended to receive an Advance Parole Document is outside the United States, provide the location (City or Town and Country) of the U. S. Embassy or consulate or the Department of Homeland Security (D H S) overseas office that you want us to notify. 2. A. Enter City or Town.",
+      "/Type": "/Annot",
+      "id": "txtLine2aCityOrTown-0",
+      "name": "txtLine2aCityOrTown"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Q": 0,
+      "/Rect": [
+        60.001,
+        276.001,
+        294.001,
+        294.001
+      ],
+      "/StructParent": 135,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2b_Country[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. If the person intended to receive an Advance Parole Document is outside the United States, provide the location (City or Town and Country) of the U. S. Embassy or consulate or the Department of Homeland Security (D H S) overseas office that you want us to notify. 2. B. Enter Country.",
+      "/Type": "/Annot",
+      "id": "txtLine2bCountry-0",
+      "name": "txtLine2bCountry"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "603 0 R",
+          "/Y": "604 0 R"
+        },
+        "/N": {
+          "/Y": "605 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        60.914,
+        229.0,
+        70.914,
+        239.0
+      ],
+      "/StructParent": 116,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3_AddressPart2[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. If the travel document will be delivered to an overseas office, where should the notice to pick up the document be sent? Check 3. To the address shown in Part 2 (2. H. through 2. P.) of this form.",
+      "/Type": "/Annot",
+      "id": "rdoLine3AddressPart2-0",
+      "name": "rdoLine3AddressPart2"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 34,
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Q": 0,
+      "/Rect": [
+        342.0,
+        456.001,
+        576.0,
+        474.001
+      ],
+      "/StructParent": 129,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4a_InCareofName[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. A. Enter In Care of Name.",
+      "/Type": "/Annot",
+      "id": "txtLine4aInCareofName-0",
+      "name": "txtLine4aInCareofName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 25,
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Q": 0,
+      "/Rect": [
+        407.999,
+        432.0,
+        576.0,
+        450.0
+      ],
+      "/StructParent": 128,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4b_StreetNumberName[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. B. Enter Street Number and Name.",
+      "/Type": "/Annot",
+      "id": "txtLine4bStreetNumberName-0",
+      "name": "txtLine4bStreetNumberName"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ APT ": "621 0 R",
+          "/Off": "622 0 R"
+        },
+        "/N": {
+          "/ APT ": "623 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Btn",
+      "/Ff": 1,
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        366.999,
+        411.999,
+        376.999,
+        421.999
+      ],
+      "/StructParent": 124,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4c_Unit[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. C. Check Apartment.",
+      "/Type": "/Annot",
+      "id": "rdoLine4cUnit-0",
+      "name": "rdoLine4cUnit"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ STE ": "624 0 R",
+          "/Off": "625 0 R"
+        },
+        "/N": {
+          "/ STE ": "626 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Btn",
+      "/Ff": 1,
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        409.0,
+        411.996,
+        419.0,
+        421.996
+      ],
+      "/StructParent": 125,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4c_Unit[1]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. C. Check Suite.",
+      "/Type": "/Annot",
+      "id": "rdoLine4cUnit-1",
+      "name": "rdoLine4cUnit"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ FLR ": "627 0 R",
+          "/Off": "628 0 R"
+        },
+        "/N": {
+          "/ FLR ": "629 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Btn",
+      "/Ff": 1,
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        450.998,
+        411.996,
+        460.998,
+        421.996
+      ],
+      "/StructParent": 126,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4c_Unit[2]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. C. Check Floor.",
+      "/Type": "/Annot",
+      "id": "rdoLine4cUnit-2",
+      "name": "rdoLine4cUnit"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 4,
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Q": 0,
+      "/Rect": [
+        468.0,
+        407.996,
+        576.0,
+        425.996
+      ],
+      "/StructParent": 127,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4c_AptSteFlrNumber[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. C. If Apartment, Suite or Floor, is Checked, Enter Apartment, Suite or Floor Number. ",
+      "/Type": "/Annot",
+      "id": "txtLine4cAptSteFlrNumber-0",
+      "name": "txtLine4cAptSteFlrNumber"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 20,
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Q": 0,
+      "/Rect": [
+        407.999,
+        383.998,
+        576.0,
+        401.998
+      ],
+      "/StructParent": 123,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4d_CityOrTown[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. D. Enter City or Town.",
+      "/Type": "/Annot",
+      "id": "txtLine4dCityOrTown-0",
+      "name": "txtLine4dCityOrTown"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Ch",
+      "/Ff": 67239937,
+      "/MK": {
+      },
+      "/Opt": [
+        [
+          "u: ",
+          "u: "
+        ],
+        [
+          "u:AA",
+          "u:AA"
+        ],
+        [
+          "u:AE",
+          "u:AE"
+        ],
+        [
+          "u:AK",
+          "u:AK"
+        ],
+        [
+          "u:AL",
+          "u:AL"
+        ],
+        [
+          "u:AP",
+          "u:AP"
+        ],
+        [
+          "u:AR",
+          "u:AR"
+        ],
+        [
+          "u:AS",
+          "u:AS"
+        ],
+        [
+          "u:AZ",
+          "u:AZ"
+        ],
+        [
+          "u:CA",
+          "u:CA"
+        ],
+        [
+          "u:CO",
+          "u:CO"
+        ],
+        [
+          "u:CT",
+          "u:CT"
+        ],
+        [
+          "u:DC",
+          "u:DC"
+        ],
+        [
+          "u:DE",
+          "u:DE"
+        ],
+        [
+          "u:FL",
+          "u:FL"
+        ],
+        [
+          "u:FM",
+          "u:FM"
+        ],
+        [
+          "u:GA",
+          "u:GA"
+        ],
+        [
+          "u:GU",
+          "u:GU"
+        ],
+        [
+          "u:HI",
+          "u:HI"
+        ],
+        [
+          "u:IA",
+          "u:IA"
+        ],
+        [
+          "u:ID",
+          "u:ID"
+        ],
+        [
+          "u:IL",
+          "u:IL"
+        ],
+        [
+          "u:IN",
+          "u:IN"
+        ],
+        [
+          "u:KS",
+          "u:KS"
+        ],
+        [
+          "u:KY",
+          "u:KY"
+        ],
+        [
+          "u:LA",
+          "u:LA"
+        ],
+        [
+          "u:MA",
+          "u:MA"
+        ],
+        [
+          "u:MD",
+          "u:MD"
+        ],
+        [
+          "u:ME",
+          "u:ME"
+        ],
+        [
+          "u:MH",
+          "u:MH"
+        ],
+        [
+          "u:MI",
+          "u:MI"
+        ],
+        [
+          "u:MN",
+          "u:MN"
+        ],
+        [
+          "u:MO",
+          "u:MO"
+        ],
+        [
+          "u:MP",
+          "u:MP"
+        ],
+        [
+          "u:MS",
+          "u:MS"
+        ],
+        [
+          "u:MT",
+          "u:MT"
+        ],
+        [
+          "u:NC",
+          "u:NC"
+        ],
+        [
+          "u:ND",
+          "u:ND"
+        ],
+        [
+          "u:NE",
+          "u:NE"
+        ],
+        [
+          "u:NH",
+          "u:NH"
+        ],
+        [
+          "u:NJ",
+          "u:NJ"
+        ],
+        [
+          "u:NM",
+          "u:NM"
+        ],
+        [
+          "u:NV",
+          "u:NV"
+        ],
+        [
+          "u:NY",
+          "u:NY"
+        ],
+        [
+          "u:OH",
+          "u:OH"
+        ],
+        [
+          "u:OK",
+          "u:OK"
+        ],
+        [
+          "u:OR",
+          "u:OR"
+        ],
+        [
+          "u:PA",
+          "u:PA"
+        ],
+        [
+          "u:PR",
+          "u:PR"
+        ],
+        [
+          "u:PW",
+          "u:PW"
+        ],
+        [
+          "u:RI",
+          "u:RI"
+        ],
+        [
+          "u:SC",
+          "u:SC"
+        ],
+        [
+          "u:SD",
+          "u:SD"
+        ],
+        [
+          "u:TN",
+          "u:TN"
+        ],
+        [
+          "u:TX",
+          "u:TX"
+        ],
+        [
+          "u:UT",
+          "u:UT"
+        ],
+        [
+          "u:UT",
+          "u:UT"
+        ],
+        [
+          "u:VA",
+          "u:VA"
+        ],
+        [
+          "u:VI",
+          "u:VI"
+        ],
+        [
+          "u:VT",
+          "u:VT"
+        ],
+        [
+          "u:WA",
+          "u:WA"
+        ],
+        [
+          "u:WI",
+          "u:WI"
+        ],
+        [
+          "u:WV",
+          "u:WV"
+        ],
+        [
+          "u:WY",
+          "u:WY"
+        ]
+      ],
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        368.001,
+        360.0,
+        402.001,
+        378.0
+      ],
+      "/StructParent": 131,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4e_State[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. E. Select State from a list of States.",
+      "/Type": "/Annot",
+      "id": "selLine4eState-0",
+      "name": "selLine4eState"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 5,
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Q": 0,
+      "/Rect": [
+        474.001,
+        360.0,
+        576.0,
+        378.0
+      ],
+      "/StructParent": 130,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4f_ZipCode[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. F. Enter Zip Code.",
+      "/Type": "/Annot",
+      "id": "txtLine4fZipCode-0",
+      "name": "txtLine4fZipCode"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 9,
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Q": 0,
+      "/Rect": [
+        407.999,
+        336.002,
+        575.878,
+        354.002
+      ],
+      "/StructParent": 133,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4g_PostalCode[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. G. Enter Postal Code.",
+      "/Type": "/Annot",
+      "id": "txtLine4gPostalCode-0",
+      "name": "txtLine4gPostalCode"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 20,
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Q": 0,
+      "/Rect": [
+        407.999,
+        312.001,
+        575.878,
+        330.001
+      ],
+      "/StructParent": 132,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4h_Province[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. H. Enter Province. ",
+      "/Type": "/Annot",
+      "id": "txtLine4hProvince-0",
+      "name": "txtLine4hProvince"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "606 0 R",
+          "/Y": "607 0 R"
+        },
+        "/N": {
+          "/Y": "608 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        60.914,
+        199.001,
+        70.914,
+        209.001
+      ],
+      "/StructParent": 117,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4_AddressBelow[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. If the travel document will be delivered to an overseas office, where should the notice to pick up the document be sent? Check 4. To the address shown in Part 7 (4. A. through 4. I.) of this form.",
+      "/Type": "/Annot",
+      "id": "rdoLine4AddressBelow-0",
+      "name": "rdoLine4AddressBelow"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 8388609,
+      "/MK": {
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Q": 0,
+      "/Rect": [
+        378.0,
+        288.0,
+        576.0,
+        306.0
+      ],
+      "/StructParent": 136,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4i_Country[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. I. Enter Country.",
+      "/Type": "/Annot",
+      "id": "txtLine4iCountry-0",
+      "name": "txtLine4iCountry"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 25165825,
+      "/MK": {
+      },
+      "/MaxLen": 3,
+      "/P": "36 0 R",
+      "/Parent": "212 0 R",
+      "/Q": 0,
+      "/Rect": [
+        450.0,
+        263.999,
+        480.002,
+        281.999
+      ],
+      "/StructParent": 139,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4j_DaytimePhoneNumber1[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. J. Daytime Phone Number. Enter the 3 digit Area Code.",
+      "/Type": "/Annot",
+      "id": "txtLine4jDaytimePhoneNumber1-0",
+      "name": "txtLine4jDaytimePhoneNumber1"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 25165825,
+      "/MK": {
+      },
+      "/MaxLen": 3,
+      "/P": "36 0 R",
+      "/Parent": "212 0 R",
+      "/Q": 0,
+      "/Rect": [
+        492.001,
+        263.999,
+        522.0,
+        281.999
+      ],
+      "/StructParent": 140,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4j_DaytimePhoneNumber2[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. J. Daytime Phone Number. Enter the first 3 digits of Phone Number.",
+      "/Type": "/Annot",
+      "id": "txtLine4jDaytimePhoneNumber2-0",
+      "name": "txtLine4jDaytimePhoneNumber2"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 25165825,
+      "/MK": {
+      },
+      "/MaxLen": 4,
+      "/P": "36 0 R",
+      "/Parent": "212 0 R",
+      "/Q": 0,
+      "/Rect": [
+        533.999,
+        263.999,
+        576.0,
+        281.999
+      ],
+      "/StructParent": 141,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4j_DaytimePhoneNumber3[0]",
+      "/TU": "u:Part 7. Complete Only If Applying for Advance Parole. 4. J. Daytime Phone Number. Enter the last 4 digits of Phone Number.",
+      "/Type": "/Annot",
+      "id": "txtLine4jDaytimePhoneNumber3-0",
+      "name": "txtLine4jDaytimePhoneNumber3"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "630 0 R",
+          "/Y": "631 0 R"
+        },
+        "/N": {
+          "/Y": "632 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        260.161,
+        136.001,
+        270.161,
+        146.001
+      ],
+      "/StructParent": 137,
+      "/Subtype": "/Widget",
+      "/T": "u:P8Line2_No[0]",
+      "/TU": "u:Part 8.  Employment Authorization For New Period of Parole Under Operation Allies Welcome.  1.  I am requesting an Employment Authorization Document (E A D) upon approval of my new Operation Allies Welcome (O A W) period of Parole.  Select No. ",
+      "/Type": "/Annot",
+      "id": "rdoP8Line2No-0",
+      "name": "rdoP8Line2No"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/Off": "633 0 R",
+          "/Y": "634 0 R"
+        },
+        "/N": {
+          "/Y": "635 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "36 0 R",
+      "/Parent": "52 0 R",
+      "/Rect": [
+        218.16,
+        136.001,
+        228.16,
+        146.001
+      ],
+      "/StructParent": 138,
+      "/Subtype": "/Widget",
+      "/T": "u:P8Line1_Yes[0]",
+      "/TU": "u:Part 8.  Employment Authorization For New Period of Parole Under Operation Allies Welcome.  1.  I am requesting an Employment Authorization Document (E A D) upon approval of my new Operation Allies Welcome (O A W) period of Parole.  Select Yes. ",
+      "/Type": "/Annot",
+      "id": "rdoP8Line1Yes-0",
+      "name": "rdoP8Line1Yes"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 25165824,
+      "/MK": {
+      },
+      "/MaxLen": 4,
+      "/P": "37 0 R",
+      "/Parent": "234 0 R",
+      "/Q": 0,
+      "/Rect": [
+        441.927,
+        486.0,
+        485.89,
+        504.0
+      ],
+      "/StructParent": 169,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4_DaytimePhoneNumber3[0]",
+      "/TU": "u:Part 10. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Contact Information. 4. Preparer's Daytime Phone Number. Enter the last 4 digits of Phone Number.",
+      "/Type": "/Annot",
+      "id": "txtLine4DaytimePhoneNumber3-0",
+      "name": "txtLine4DaytimePhoneNumber3"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 25165824,
+      "/MK": {
+      },
+      "/MaxLen": 3,
+      "/P": "37 0 R",
+      "/Parent": "234 0 R",
+      "/Q": 0,
+      "/Rect": [
+        397.967,
+        486.0,
+        429.366,
+        504.0
+      ],
+      "/StructParent": 168,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4_DaytimePhoneNumber2[0]",
+      "/TU": "u:Part 10. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Contact Information. 4. Preparer's Daytime Phone Number. Enter the first 3 digits of Phone Number.",
+      "/Type": "/Annot",
+      "id": "txtLine4DaytimePhoneNumber2-0",
+      "name": "txtLine4DaytimePhoneNumber2"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 25165824,
+      "/MK": {
+      },
+      "/MaxLen": 3,
+      "/P": "37 0 R",
+      "/Parent": "234 0 R",
+      "/Q": 0,
+      "/Rect": [
+        354.007,
+        486.0,
+        385.409,
+        504.0
+      ],
+      "/StructParent": 167,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4_DaytimePhoneNumber1[0]",
+      "/TU": "u:Part 10. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Contact Information. 4. Preparer's Daytime Phone Number. Enter the 3 digit Area Code.",
+      "/Type": "/Annot",
+      "id": "txtLine4DaytimePhoneNumber1-0",
+      "name": "txtLine4DaytimePhoneNumber1"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 1.000 0.000 0.000 rg",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        60.001,
+        582.004,
+        294.001,
+        600.004
+      ],
+      "/StructParent": 149,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1a_SignatureofApplicant[0]",
+      "/TU": "u:Part 8. Signature of Applicant (Read the information on penalties in the Form instructions before completing\rthis Part.) If you are filing for a Re-entry Permit or Refugee Travel Document, you must be in the United States to file this application. I certify, under penalty of perjury under the laws of the\rUnited States of America, that this application and the evidence submitted with it is all true and correct. I authorize the release of any information from my records\rthat U. S. Citizenship and Immigration Services needs to determine eligibility for the benefit I am seeking. 1. A. Signature of Applicant. No Entry. Print and Sign completed form.                                  ",
+      "/Type": "/Annot",
+      "id": "txtLine1aSignatureofApplicant-0",
+      "name": "txtLine1aSignatureofApplicant"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        492.001,
+        672.001,
+        576.0,
+        690.001
+      ],
+      "/StructParent": 150,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1b_DateOfSignature[0]",
+      "/TU": "u:Part 8. Signature of Applicant (Read the information on penalties in the Form instructions before completing\rthis Part.) If you are filing for a Re-entry Permit or Refugee Travel Document, you must be in the United States to file this application. 1. B. Enter Date of Signature as 2-digit Month, 2-digit Day, and 4-digit Year.",
+      "/Type": "/Annot",
+      "id": "txtLine1bDateOfSignature-0",
+      "name": "txtLine1bDateOfSignature"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        60.001,
+        414.0,
+        294.001,
+        432.0
+      ],
+      "/StructParent": 144,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1a_PreparerFamilyName[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Full Name. Provide the following information concerning the preparer: 1. A. Enter Preparer's Family Name (Last Name).",
+      "/Type": "/Annot",
+      "id": "txtLine1aPreparerFamilyName-0",
+      "name": "txtLine1aPreparerFamilyName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        60.001,
+        378.0,
+        294.001,
+        396.0
+      ],
+      "/StructParent": 145,
+      "/Subtype": "/Widget",
+      "/T": "u:Line1b_PreparerGivenName[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Full Name. Provide the following information concerning the preparer: 1. B. Enter Preparer's Given Name (First Name).",
+      "/Type": "/Annot",
+      "id": "txtLine1bPreparerGivenName-0",
+      "name": "txtLine1bPreparerGivenName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 25165824,
+      "/MK": {
+      },
+      "/MaxLen": 3,
+      "/P": "37 0 R",
+      "/Parent": "233 0 R",
+      "/Q": 0,
+      "/Rect": [
+        450.0,
+        648.0,
+        480.002,
+        666.0
+      ],
+      "/StructParent": 164,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2_DaytimePhoneNumber1[0]",
+      "/TU": "u:Part 9. Signature of Applicant (Read the information on penalties in the Form instructions before completing\rthis Part.) If you are filing for a Re-entry Permit or Refugee Travel Document, you must be in the United States to file this application. 2. Daytime Phone Number. Enter the 3 digit Area Code.",
+      "/Type": "/Annot",
+      "id": "txtLine2DaytimePhoneNumber1-0",
+      "name": "txtLine2DaytimePhoneNumber1"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 34,
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        60.001,
+        342.0,
+        294.001,
+        360.0
+      ],
+      "/StructParent": 146,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2_BusinessName[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Full Name. Provide the following information concerning the preparer: 2. Enter Preparer's Business or Organization Name.",
+      "/Type": "/Annot",
+      "id": "txtLine2BusinessName-0",
+      "name": "txtLine2BusinessName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 25165824,
+      "/MK": {
+      },
+      "/MaxLen": 4,
+      "/P": "37 0 R",
+      "/Parent": "233 0 R",
+      "/Q": 0,
+      "/Rect": [
+        533.999,
+        648.0,
+        576.0,
+        666.0
+      ],
+      "/StructParent": 166,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2_DaytimePhoneNumber3[0]",
+      "/TU": "u:Part 9. Signature of Applicant (Read the information on penalties in the Form instructions before completing\rthis Part.) If you are filing for a Re-entry Permit or Refugee Travel Document, you must be in the United States to file this application. 2. Daytime Phone Number. Enter the last 4 digits of Phone Number.",
+      "/Type": "/Annot",
+      "id": "txtLine2DaytimePhoneNumber3-0",
+      "name": "txtLine2DaytimePhoneNumber3"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 25165824,
+      "/MK": {
+      },
+      "/MaxLen": 3,
+      "/P": "37 0 R",
+      "/Parent": "233 0 R",
+      "/Q": 0,
+      "/Rect": [
+        492.001,
+        648.0,
+        522.0,
+        666.0
+      ],
+      "/StructParent": 165,
+      "/Subtype": "/Widget",
+      "/T": "u:Line2_DaytimePhoneNumber2[0]",
+      "/TU": "u:Part 9. Signature of Applicant (Read the information on penalties in the Form instructions before completing\rthis Part.) If you are filing for a Re-entry Permit or Refugee Travel Document, you must be in the United States to file this application. 2. Daytime Phone Number. Enter the first 3 digits of Phone Number.",
+      "/Type": "/Annot",
+      "id": "txtLine2DaytimePhoneNumber2-0",
+      "name": "txtLine2DaytimePhoneNumber2"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 25,
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        126.0,
+        294.001,
+        294.001,
+        312.001
+      ],
+      "/StructParent": 153,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3a_StreetNumberName[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Mailing Address. 3. A. Enter Street Number and Name.",
+      "/Type": "/Annot",
+      "id": "txtLine3aStreetNumberName-0",
+      "name": "txtLine3aStreetNumberName"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 4,
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        186.001,
+        269.997,
+        294.001,
+        287.997
+      ],
+      "/StructParent": 156,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3b_AptSteFlrNumber[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Mailing Address. 3. B. If Apartment, Suite or Floor, is Checked, Enter Apartment, Suite or Floor Number. ",
+      "/Type": "/Annot",
+      "id": "txtLine3bAptSteFlrNumber-0",
+      "name": "txtLine3bAptSteFlrNumber"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ STE ": "636 0 R",
+          "/Off": "637 0 R"
+        },
+        "/N": {
+          "/ STE ": "638 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Rect": [
+        127.001,
+        273.997,
+        137.001,
+        283.997
+      ],
+      "/StructParent": 154,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3b_Unit[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Mailing Address. 3. B. Check Suite.  ",
+      "/Type": "/Annot",
+      "id": "rdoLine3bUnit-0",
+      "name": "rdoLine3bUnit"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ FLR ": "639 0 R",
+          "/Off": "640 0 R"
+        },
+        "/N": {
+          "/ FLR ": "641 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Rect": [
+        168.999,
+        273.997,
+        178.999,
+        283.997
+      ],
+      "/StructParent": 155,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3b_Unit[1]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Mailing Address. 3. B. Check Floor.  ",
+      "/Type": "/Annot",
+      "id": "rdoLine3bUnit-1",
+      "name": "rdoLine3bUnit"
+    }
+  },
+  {
+    "value": {
+      "/AP": {
+        "/D": {
+          "/ APT ": "642 0 R",
+          "/Off": "643 0 R"
+        },
+        "/N": {
+          "/ APT ": "644 0 R"
+        }
+      },
+      "/AS": "/Off",
+      "/DA": "u:/ZaDb 8.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Btn",
+      "/MK": {
+        "/CA": "u:8"
+      },
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Rect": [
+        85.0,
+        274.0,
+        95.0,
+        284.0
+      ],
+      "/StructParent": 157,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3b_Unit[2]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Mailing Address. 3. B. Check Apartment.",
+      "/Type": "/Annot",
+      "id": "rdoLine3bUnit-2",
+      "name": "rdoLine3bUnit"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 20,
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        126.0,
+        245.999,
+        294.001,
+        263.999
+      ],
+      "/StructParent": 152,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3c_CityOrTown[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Mailing Address. 3. C. Enter City or Town.",
+      "/Type": "/Annot",
+      "id": "txtLine3cCityOrTown-0",
+      "name": "txtLine3cCityOrTown"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Ch",
+      "/Ff": 67239936,
+      "/MK": {
+      },
+      "/Opt": [
+        [
+          "u: ",
+          "u: "
+        ],
+        [
+          "u:AA",
+          "u:AA"
+        ],
+        [
+          "u:AE",
+          "u:AE"
+        ],
+        [
+          "u:AK",
+          "u:AK"
+        ],
+        [
+          "u:AL",
+          "u:AL"
+        ],
+        [
+          "u:AP",
+          "u:AP"
+        ],
+        [
+          "u:AR",
+          "u:AR"
+        ],
+        [
+          "u:AS",
+          "u:AS"
+        ],
+        [
+          "u:AZ",
+          "u:AZ"
+        ],
+        [
+          "u:CA",
+          "u:CA"
+        ],
+        [
+          "u:CO",
+          "u:CO"
+        ],
+        [
+          "u:CT",
+          "u:CT"
+        ],
+        [
+          "u:DC",
+          "u:DC"
+        ],
+        [
+          "u:DE",
+          "u:DE"
+        ],
+        [
+          "u:FL",
+          "u:FL"
+        ],
+        [
+          "u:FM",
+          "u:FM"
+        ],
+        [
+          "u:GA",
+          "u:GA"
+        ],
+        [
+          "u:GU",
+          "u:GU"
+        ],
+        [
+          "u:HI",
+          "u:HI"
+        ],
+        [
+          "u:IA",
+          "u:IA"
+        ],
+        [
+          "u:ID",
+          "u:ID"
+        ],
+        [
+          "u:IL",
+          "u:IL"
+        ],
+        [
+          "u:IN",
+          "u:IN"
+        ],
+        [
+          "u:KS",
+          "u:KS"
+        ],
+        [
+          "u:KY",
+          "u:KY"
+        ],
+        [
+          "u:LA",
+          "u:LA"
+        ],
+        [
+          "u:MA",
+          "u:MA"
+        ],
+        [
+          "u:MD",
+          "u:MD"
+        ],
+        [
+          "u:ME",
+          "u:ME"
+        ],
+        [
+          "u:MH",
+          "u:MH"
+        ],
+        [
+          "u:MI",
+          "u:MI"
+        ],
+        [
+          "u:MN",
+          "u:MN"
+        ],
+        [
+          "u:MO",
+          "u:MO"
+        ],
+        [
+          "u:MP",
+          "u:MP"
+        ],
+        [
+          "u:MS",
+          "u:MS"
+        ],
+        [
+          "u:MT",
+          "u:MT"
+        ],
+        [
+          "u:NC",
+          "u:NC"
+        ],
+        [
+          "u:ND",
+          "u:ND"
+        ],
+        [
+          "u:NE",
+          "u:NE"
+        ],
+        [
+          "u:NH",
+          "u:NH"
+        ],
+        [
+          "u:NJ",
+          "u:NJ"
+        ],
+        [
+          "u:NM",
+          "u:NM"
+        ],
+        [
+          "u:NV",
+          "u:NV"
+        ],
+        [
+          "u:NY",
+          "u:NY"
+        ],
+        [
+          "u:OH",
+          "u:OH"
+        ],
+        [
+          "u:OK",
+          "u:OK"
+        ],
+        [
+          "u:OR",
+          "u:OR"
+        ],
+        [
+          "u:PA",
+          "u:PA"
+        ],
+        [
+          "u:PR",
+          "u:PR"
+        ],
+        [
+          "u:PW",
+          "u:PW"
+        ],
+        [
+          "u:RI",
+          "u:RI"
+        ],
+        [
+          "u:SC",
+          "u:SC"
+        ],
+        [
+          "u:SD",
+          "u:SD"
+        ],
+        [
+          "u:TN",
+          "u:TN"
+        ],
+        [
+          "u:TX",
+          "u:TX"
+        ],
+        [
+          "u:UT",
+          "u:UT"
+        ],
+        [
+          "u:UT",
+          "u:UT"
+        ],
+        [
+          "u:VA",
+          "u:VA"
+        ],
+        [
+          "u:VI",
+          "u:VI"
+        ],
+        [
+          "u:VT",
+          "u:VT"
+        ],
+        [
+          "u:WA",
+          "u:WA"
+        ],
+        [
+          "u:WI",
+          "u:WI"
+        ],
+        [
+          "u:WV",
+          "u:WV"
+        ],
+        [
+          "u:WY",
+          "u:WY"
+        ]
+      ],
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Rect": [
+        85.999,
+        222.001,
+        119.999,
+        240.001
+      ],
+      "/StructParent": 161,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3d_State[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Mailing Address. 3. D. Select State from a list of States.",
+      "/Type": "/Annot",
+      "id": "selLine3dState-0",
+      "name": "selLine3dState"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 5,
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        191.999,
+        222.001,
+        293.998,
+        240.001
+      ],
+      "/StructParent": 160,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3e_ZipCode[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Mailing Address. 3. E. Enter Zip Code.",
+      "/Type": "/Annot",
+      "id": "txtLine3eZipCode-0",
+      "name": "txtLine3eZipCode"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 9,
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        126.0,
+        198.0,
+        293.879,
+        216.0
+      ],
+      "/StructParent": 159,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3f_PostalCode[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Mailing Address. 3. F. Enter Postal Code.",
+      "/Type": "/Annot",
+      "id": "txtLine3fPostalCode-0",
+      "name": "txtLine3fPostalCode"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 20,
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        126.0,
+        173.999,
+        293.879,
+        191.999
+      ],
+      "/StructParent": 158,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3g_Province[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Mailing Address. 3. G. Enter Province. ",
+      "/Type": "/Annot",
+      "id": "txtLine3gProvince-0",
+      "name": "txtLine3gProvince"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        96.001,
+        150.001,
+        294.001,
+        168.001
+      ],
+      "/StructParent": 162,
+      "/Subtype": "/Widget",
+      "/T": "u:Line3h_Country[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Mailing Address. 3. H. Enter Country.",
+      "/Type": "/Annot",
+      "id": "txtLine3hCountry-0",
+      "name": "txtLine3hCountry"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/MK": {
+      },
+      "/MaxLen": 6,
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        533.999,
+        480.005,
+        576.0,
+        498.005
+      ],
+      "/StructParent": 163,
+      "/Subtype": "/Widget",
+      "/T": "u:Line4_Extension[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Contact Information. 4. Preparer's Daytime Phone Number. Enter Extension.",
+      "/Type": "/Annot",
+      "id": "txtLine4Extension-0",
+      "name": "txtLine4Extension"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        342.003,
+        450.0,
+        576.003,
+        468.0
+      ],
+      "/StructParent": 147,
+      "/Subtype": "/Widget",
+      "/T": "u:Line5_Email[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Preparer's Contact Information. 5. Enter Preparer's E-mail Address, if any.",
+      "/Type": "/Annot",
+      "id": "txtLine5Email-0",
+      "name": "txtLine5Email"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 68,
+      "/FT": "/Tx",
+      "/Ff": 1,
+      "/MK": {
+      },
+      "/MaxLen": 1,
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        396.003,
+        330.001,
+        576.003,
+        348.001
+      ],
+      "/StructParent": 148,
+      "/Subtype": "/Widget",
+      "/T": "u:Line6a_SignatureofPreparer[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. Declaration. To be completed by all preparers, including attorneys and authorized representatives: I declare that I prepared this benefit request at the request of the applicant, that it is based on all the information of which I have knowledge, and that the information is true to the best of my knowledge. 6. A. Signature of Preparer. No Entry. Print and Sign completed form.                                  ",
+      "/Type": "/Annot",
+      "id": "txtLine6aSignatureofPreparer-0",
+      "name": "txtLine6aSignatureofPreparer"
+    }
+  },
+  {
+    "value": {
+      "/DA": "u:/CourierNewPS-BoldMT 10.00 Tf 0 g",
+      "/F": 4,
+      "/FT": "/Tx",
+      "/Ff": 8388608,
+      "/MK": {
+      },
+      "/P": "37 0 R",
+      "/Parent": "53 0 R",
+      "/Q": 0,
+      "/Rect": [
+        492.001,
+        299.996,
+        576.0,
+        317.996
+      ],
+      "/StructParent": 151,
+      "/Subtype": "/Widget",
+      "/T": "u:Line6b_DateOfSignature[0]",
+      "/TU": "u:Part 9. Information About Person Who Prepared This Application, If Other Than the Applicant. 6. B. Enter Date of Signature as 2-digit Month, 2-digit Day, and 4-digit Year.",
+      "/Type": "/Annot",
+      "id": "txtLine6bDateOfSignature-0",
+      "name": "txtLine6bDateOfSignature"
+    }
+  }
+]

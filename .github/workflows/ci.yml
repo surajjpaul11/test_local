@@ -1,0 +1,77 @@
+name: CI Test Automation - Download Report as Artifact
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the code from the selected branch
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+
+      # Step 2: Set up JDK 19
+      - name: Set up JDK 19
+        uses: actions/setup-java@v3
+        with:
+          java-version: '19'
+          distribution: 'temurin'
+          cache: 'maven'
+
+      # Step 3: Cache Maven dependencies
+      - name: Cache Maven dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.m2/repository
+          key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
+          restore-keys: |
+            ${{ runner.os }}-maven-
+
+      # Step 4: Run Maven verify (this includes running the tests and generating Cucumber report)
+      - name: Run tests with Maven verify
+        run: mvn clean verify -Dcucumber.options="--plugin json:target/cucumber-report.json --plugin html:target/cucumber-reports.html"
+
+
+      # Step 5: List generated files
+      - name: List generated files
+        run: ls -al target
+      
+
+      # Step 6: Check if Cucumber report exists
+      - name: Check if Cucumber report exists
+        run: |
+          if [ -f "target/cucumber-reports.html" ]; then
+            echo "Cucumber report generated successfully."
+          else
+            echo "Cucumber report not found!"
+            exit 1
+          fi
+
+      # Step 7: Upload Cucumber HTML report as an artifact
+      - name: Upload Cucumber Report
+        uses: actions/upload-artifact@v3
+        with:
+          name: cucumber-report  # Artifact name
+          path: target/cucumber-reports.html  # Path to the report file
+
+  deploy:
+    needs: test
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 8: Download Cucumber report artifact from the test job
+      - name: Download Cucumber report artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: cucumber-report  # Must match the name in the upload step
+          path: ./cucumber-report  # Destination path for the artifact
+
+      # Step 9: Deploy Cucumber Report (for example, print the path)
+      - name: Deploy Cucumber Report
+        run: |
+          echo "Your Cucumber report is ready and available."
+          echo "Open the link to view it: ./cucumber-report/cucumber-reports.html"
