@@ -11,7 +11,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          ref: ${{ github.ref }}
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up JDK 19
@@ -44,7 +43,7 @@ jobs:
             exit 1
           fi
 
-      # Deploy to GitHub Pages and create gh-pages branch if it doesn't exist
+      # Deploy to GitHub Pages using GitHub Token for authentication
       - name: Deploy Cucumber Report to GitHub Pages
         run: |
           git config --global user.name "github-actions[bot]"
@@ -57,7 +56,16 @@ jobs:
             echo "gh-pages branch does not exist, creating it."
             git checkout -b gh-pages
           fi
+          git fetch origin gh-pages  # Fetch the latest changes from remote
+          git reset --hard origin/gh-pages  # Force reset the local branch to match the remote
+          git checkout gh-pages  # Explicitly checkout the gh-pages branch
           cp ../target/cucumber-reports.html index.html
           git add index.html
           git commit -m "Update Cucumber report"
-          git push origin gh-pages
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} gh-pages
+
+      # Print the URL of the Cucumber Report hosted on GitHub Pages
+      - name: Print the Cucumber Report URL
+        run: |
+          echo "Your Cucumber report is available at:"
+          echo "https://surajjpaul11.github.io/dhs_local/"
